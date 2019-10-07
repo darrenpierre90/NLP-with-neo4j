@@ -1,0 +1,2450 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "803fee12-7258-4393-95a8-da84cc12cbe7",
+            "type": "message",
+            "text": "I'd love to have a conversation with you about this at some point :slightly_smiling_face:",
+            "user": "UKM9QCDC5",
+            "ts": "1564497351.003200",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1564148357.006000",
+            "parent_user_id": "UKM9QCDC5"
+        },
+        {
+            "client_msg_id": "8B5CBF55-BF72-40AA-854D-4D3947CF3094",
+            "type": "message",
+            "text": "Thanks for sharing this! Learning styles are my pet peeve... even if you have an auditory preference it aint gonna help you learn how to drive :smirk:",
+            "user": "UG9TY931Q",
+            "ts": "1564496606.003000",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1564148357.006000",
+            "parent_user_id": "UKM9QCDC5"
+        },
+        {
+            "client_msg_id": "dfa69121-d039-4d3a-8536-55c5fe8359dc",
+            "type": "message",
+            "text": "<https:\/\/elearninginfographics.com\/the-myth-of-learning-styles-infographic\/>",
+            "user": "UKM9QCDC5",
+            "ts": "1564148357.006000",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "e-Learning Infographics",
+                    "title": "The Myth of Learning Styles Infographic - e-Learning Infographics",
+                    "title_link": "https:\/\/elearninginfographics.com\/the-myth-of-learning-styles-infographic\/",
+                    "text": "The Myth of Learning Styles Infographic plus a very informative article to Debunk the myth of Learning Styles!",
+                    "fallback": "e-Learning Infographics: The Myth of Learning Styles Infographic - e-Learning Infographics",
+                    "ts": 1387446022,
+                    "from_url": "https:\/\/elearninginfographics.com\/the-myth-of-learning-styles-infographic\/",
+                    "service_icon": "https:\/\/elearninginfographics.com\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/elearninginfographics.com\/the-myth-of-learning-styles-infographic\/"
+                }
+            ],
+            "thread_ts": "1564148357.006000",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1564497351.003200",
+            "reply_users": [
+                "UG9TY931Q",
+                "UKM9QCDC5"
+            ],
+            "replies": [
+                {
+                    "user": "UG9TY931Q",
+                    "ts": "1564496606.003000"
+                },
+                {
+                    "user": "UKM9QCDC5",
+                    "ts": "1564497351.003200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "c9e8cfae-1a27-491f-98fb-d2eee226ade8",
+            "type": "message",
+            "text": ":+1::skin-tone-3:",
+            "user": "UGBFAD9T8",
+            "ts": "1563893888.005500",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563892772.004800",
+            "parent_user_id": "UG9TV6EBD"
+        },
+        {
+            "user": "UKRE1TRDK",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1563893794.005300",
+            "text": "<@UKRE1TRDK> has joined the channel",
+            "inviter": "UG9SGK05Q"
+        },
+        {
+            "client_msg_id": "970238f4-d5db-4808-891c-41df9ca1b205",
+            "type": "message",
+            "text": "<@UG99E6Y7J> they beat us to it. <@UKRE1TRDK>, this is probably one we're happy to signal boost and connect to our work - this is part of the shift in mentality and approach that we're teaching.",
+            "user": "UG9SGK05Q",
+            "ts": "1563893789.005000",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563892772.004800",
+            "parent_user_id": "UG9TV6EBD"
+        },
+        {
+            "client_msg_id": "2161d505-299f-477c-b701-435b3cf0b024",
+            "type": "message",
+            "text": "<https:\/\/digital.canada.ca\/2019\/07\/23\/so-what-exactly-is-a-product-manager-anyway\/> <@UGBFAD9T8>",
+            "user": "UG9TV6EBD",
+            "ts": "1563892772.004800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "So...what exactly is a product manager, anyway? - Canadian Digital Service",
+                    "title_link": "https:\/\/digital.canada.ca\/2019\/07\/23\/so-what-exactly-is-a-product-manager-anyway\/",
+                    "text": "In a Q&amp;A, meet CDS\u2019 product managers, learn about their work doing service delivery in government, and find out how product management differs from project management.",
+                    "fallback": "So...what exactly is a product manager, anyway? - Canadian Digital Service",
+                    "from_url": "https:\/\/digital.canada.ca\/2019\/07\/23\/so-what-exactly-is-a-product-manager-anyway\/",
+                    "service_name": "digital.canada.ca",
+                    "id": 1,
+                    "original_url": "https:\/\/digital.canada.ca\/2019\/07\/23\/so-what-exactly-is-a-product-manager-anyway\/"
+                }
+            ],
+            "thread_ts": "1563892772.004800",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1563893888.005500",
+            "reply_users": [
+                "UG9SGK05Q",
+                "UGBFAD9T8"
+            ],
+            "replies": [
+                {
+                    "user": "UG9SGK05Q",
+                    "ts": "1563893789.005000"
+                },
+                {
+                    "user": "UGBFAD9T8",
+                    "ts": "1563893888.005500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "914e5d6d-cd75-4bc3-bc85-45dda82de9f8",
+            "type": "message",
+            "text": "wrong channel",
+            "user": "UG9Q2KANP",
+            "ts": "1563892048.004300",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563888402.003500",
+            "parent_user_id": "UG9Q2KANP"
+        },
+        {
+            "client_msg_id": "12e033e5-5a73-4b72-b5e5-73a4fc65b41f",
+            "type": "message",
+            "text": "<https:\/\/www.shiftelearning.com\/blog\/improving-knowledge-transfer>",
+            "user": "UJ9VAC14L",
+            "ts": "1563889319.004000",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Before, During, and After Training: Improving Knowledge Transfer in Your Organization in 3 Stages",
+                    "title_link": "https:\/\/www.shiftelearning.com\/blog\/improving-knowledge-transfer",
+                    "text": "Learning does not start and stop with the training session. You have to take care of all the stages of learning transfer: before, during, and after training.",
+                    "fallback": "Before, During, and After Training: Improving Knowledge Transfer in Your Organization in 3 Stages",
+                    "image_url": "https:\/\/www.shiftelearning.com\/hubfs\/before-during-and-after-training2.jpg#keepProtocol",
+                    "image_width": 221,
+                    "image_height": 250,
+                    "from_url": "https:\/\/www.shiftelearning.com\/blog\/improving-knowledge-transfer",
+                    "image_bytes": 435090,
+                    "service_icon": "https:\/\/www.shiftelearning.com\/hs-fs\/hub\/159642\/file-18130372-ico\/favicon.ico",
+                    "service_name": "shiftelearning.com",
+                    "id": 1,
+                    "original_url": "https:\/\/www.shiftelearning.com\/blog\/improving-knowledge-transfer"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "0ad53d83-09ac-412a-9328-3f3d9f565aca",
+            "type": "message",
+            "text": "do we know if our data is Protected?",
+            "user": "UG9Q2KANP",
+            "ts": "1563888402.003500",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563888402.003500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1563892048.004300",
+            "reply_users": [
+                "UG9Q2KANP"
+            ],
+            "replies": [
+                {
+                    "user": "UG9Q2KANP",
+                    "ts": "1563892048.004300"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "97ed7d7c-1b93-453f-b6a5-2cc08209365c",
+            "type": "message",
+            "text": "FINALLY",
+            "user": "UGA7MQ95G",
+            "ts": "1563826083.002500",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563824028.002200",
+            "parent_user_id": "UKSGNE475"
+        },
+        {
+            "client_msg_id": "b97f4b71-bd73-43cf-b1f9-115261a54b86",
+            "type": "message",
+            "text": "<https:\/\/mobilesyrup.com\/2019\/07\/22\/apple-watch-series-4-ecg-app-available-canada\/>",
+            "user": "UKSGNE475",
+            "ts": "1563824028.002200",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "MobileSyrup",
+                    "title": "Apple Watch Series 4 ECG app now available in Canada",
+                    "title_link": "https:\/\/mobilesyrup.com\/2019\/07\/22\/apple-watch-series-4-ecg-app-available-canada\/",
+                    "text": "The Apple Watch Series 4' s ECG app has finally made its way to Canada.",
+                    "fallback": "MobileSyrup: Apple Watch Series 4 ECG app now available in Canada",
+                    "image_url": "https:\/\/cdn.mobilesyrup.com\/wp-content\/uploads\/2019\/07\/apple-watch-ecg-header-1024x522.jpg",
+                    "image_width": 490,
+                    "image_height": 250,
+                    "ts": 1563814849,
+                    "from_url": "https:\/\/mobilesyrup.com\/2019\/07\/22\/apple-watch-series-4-ecg-app-available-canada\/",
+                    "image_bytes": 73345,
+                    "service_icon": "https:\/\/cdn.mobilesyrup.com\/wp-content\/uploads\/2017\/01\/mS4BQl5a_400x400.jpg",
+                    "id": 1,
+                    "original_url": "https:\/\/mobilesyrup.com\/2019\/07\/22\/apple-watch-series-4-ecg-app-available-canada\/"
+                }
+            ],
+            "thread_ts": "1563824028.002200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1563826083.002500",
+            "reply_users": [
+                "UGA7MQ95G"
+            ],
+            "replies": [
+                {
+                    "user": "UGA7MQ95G",
+                    "ts": "1563826083.002500"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "upside_down_face",
+                    "users": [
+                        "UG9T1KMB4"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UL1E4EGUS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1563818778.001300",
+            "text": "<@UL1E4EGUS> has joined the channel",
+            "inviter": "UJFGFCM4Y"
+        },
+        {
+            "client_msg_id": "5c25cefa-9f39-4ce8-b324-352ea9294942",
+            "type": "message",
+            "text": "Crazy",
+            "user": "UG9Q2KANP",
+            "ts": "1563801521.000600",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "9ECC6BEB-0B54-4580-B8FB-F554A6EE5797",
+            "type": "message",
+            "text": "^ this is a really big deal and should be watched closely ",
+            "user": "UGA7MQ95G",
+            "ts": "1563571705.001500",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "0FFD219C-8D88-4538-ADFC-F1287F1BFE07",
+            "type": "message",
+            "text": "<https:\/\/www.cbc.ca\/news\/canada\/ottawa\/phoenix-psac-union-cash-settlement-1.5217474?utm_source=share&amp;utm_medium=ios_app>",
+            "user": "UGA7MQ95G",
+            "ts": "1563571663.000800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "CBC",
+                    "title": "PSAC unimpressed with mass government email on Phoenix offer  | CBC News",
+                    "title_link": "https:\/\/www.cbc.ca\/news\/canada\/ottawa\/phoenix-psac-union-cash-settlement-1.5217474?utm_source=share&utm_medium=ios_app",
+                    "text": "The federal government\u2019s largest public sector union is calling a mass email to public servants about a settlement for the Phoenix pay system a 'pressure tactic' designed to push its members toward the deal.",
+                    "fallback": "CBC: PSAC unimpressed with mass government email on Phoenix offer  | CBC News",
+                    "image_url": "https:\/\/i.cbc.ca\/1.5061594.1552938697!\/fileImage\/httpImage\/image.jpg_gen\/derivatives\/16x9_620\/chris-aylward-psac.jpg",
+                    "from_url": "https:\/\/www.cbc.ca\/news\/canada\/ottawa\/phoenix-psac-union-cash-settlement-1.5217474?utm_source=share&utm_medium=ios_app",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "image_bytes": 22747,
+                    "service_icon": "https:\/\/www.cbc.ca\/a\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.cbc.ca\/news\/canada\/ottawa\/phoenix-psac-union-cash-settlement-1.5217474?utm_source=share&amp;utm_medium=ios_app"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Today's Cisco's outward Collaboration schpeel (or spiel?) :slightly_smiling_face:",
+            "files": [
+                {
+                    "id": "FLJTFD6GY",
+                    "created": 1563468724,
+                    "timestamp": 1563468724,
+                    "name": "cognitive-collaboration-transform-experiences-ebook_Cisco.pdf",
+                    "title": "cognitive-collaboration-transform-experiences-ebook_Cisco.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG99E6Y7J",
+                    "editable": false,
+                    "size": 2547366,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FLJTFD6GY\/cognitive-collaboration-transform-experiences-ebook_cisco.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FLJTFD6GY\/download\/cognitive-collaboration-transform-experiences-ebook_cisco.pdf",
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG99E6Y7J\/FLJTFD6GY\/cognitive-collaboration-transform-experiences-ebook_cisco.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FLJTFD6GY-56c1595fbc",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG99E6Y7J",
+            "display_as_bot": false,
+            "ts": "1563468725.000400",
+            "client_msg_id": "0cc41123-e90f-4319-bcf8-779b4f7ccb0c"
+        },
+        {
+            "type": "message",
+            "text": "2013 Cisco internal report on Collaboration work practices after John Chambers (CEO) pivoted the company circa 2008 into A collaboration enabler (as opposed to a hardware provider). Transformation from the inside out starting with leaders. Things have evolved - but most insights still valid.",
+            "files": [
+                {
+                    "id": "FLJT9L3K2",
+                    "created": 1563468472,
+                    "timestamp": 1563468472,
+                    "name": "cwps_full_report_Cisco Collaboration Practice Report 2013.pdf",
+                    "title": "cwps_full_report_Cisco Collaboration Practice Report 2013.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG99E6Y7J",
+                    "editable": false,
+                    "size": 6005672,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FLJT9L3K2\/cwps_full_report_cisco_collaboration_practice_report_2013.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FLJT9L3K2\/download\/cwps_full_report_cisco_collaboration_practice_report_2013.pdf",
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG99E6Y7J\/FLJT9L3K2\/cwps_full_report_cisco_collaboration_practice_report_2013.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FLJT9L3K2-2a787f567d",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG99E6Y7J",
+            "display_as_bot": false,
+            "ts": "1563468472.000100",
+            "client_msg_id": "29d43f72-c83d-4e2d-9ef7-90fa8b3ab00a"
+        },
+        {
+            "client_msg_id": "F7D2BFFE-58A7-48A0-B357-37E5E2231774",
+            "type": "message",
+            "text": "<https:\/\/apple.news\/AZKZJB92TSNysbkemHJzw5Q>",
+            "user": "UGA7MQ95G",
+            "ts": "1563281741.009100",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Desjardins Group president calls for law changes to help fight data leaks \u2014 The Globe and Mail",
+                    "title_link": "https:\/\/apple.news\/AZKZJB92TSNysbkemHJzw5Q",
+                    "text": "The head of a financial services company that suffered a major leak of data on 2.7 million of its clients wants governments to work with businesses and ordinary Canadians to find new, more effective ways to protect personal information. Desjardins Group president and chief executive Guy Cormier told an emergency meeting of the Parliamentary committee on public safety and national security that current ways of preventing leaks, such as third-party monitoring of transactions, are inadequate. He",
+                    "fallback": "Desjardins Group president calls for law changes to help fight data leaks \u2014 The Globe and Mail",
+                    "thumb_url": "https:\/\/c.apple.news\/AgEXQVpLWkpCOTJUU055c2JrZW1ISnp3NVEAMA",
+                    "from_url": "https:\/\/apple.news\/AZKZJB92TSNysbkemHJzw5Q",
+                    "thumb_width": 750,
+                    "thumb_height": 523,
+                    "service_icon": "https:\/\/apple.news\/images\/apple-touch-icon.png",
+                    "service_name": "apple.news",
+                    "id": 1,
+                    "original_url": "https:\/\/apple.news\/AZKZJB92TSNysbkemHJzw5Q"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1a5bce38-2921-42fa-b44d-3b7082666eaf",
+            "type": "message",
+            "text": "```privacy commissioner suggests they instead adopt similar tools with on-premise licenses.```\n\nI'm not sure such a thing exists that covers the same scope as O365 or GDrive Suite. Is that statement based on reality (ie are there tools out there that cover this?)",
+            "user": "UGBBF7X8X",
+            "ts": "1563226668.008800",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1563225219.008600",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "61c528c8-fddb-4f38-bd6f-affbab067a39",
+            "type": "message",
+            "text": "<https:\/\/www.darkreading.com\/risk\/german-schools-ban-office-365-cite-privacy-concerns\/d\/d-id\/1335239?_mc=NL_DR_EDT_DR_daily_20190715&amp;cid=NL_DR_EDT_DR_daily_20190715&amp;elq_mid=91940&amp;elq_cid=22621059>",
+            "user": "UG99E6Y7J",
+            "ts": "1563225219.008600",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Dark Reading",
+                    "title": "German Schools Ban Office 365, Cite Privacy Concerns",
+                    "title_link": "https:\/\/www.darkreading.com\/risk\/german-schools-ban-office-365-cite-privacy-concerns\/d\/d-id\/1335239?_mc=NL_DR_EDT_DR_daily_20190715&cid=NL_DR_EDT_DR_daily_20190715&elq_mid=91940&elq_cid=22621059",
+                    "text": "The ruling follows years of debate over whether German schools and institutions should use Microsoft tools and services.",
+                    "fallback": "Dark Reading: German Schools Ban Office 365, Cite Privacy Concerns",
+                    "thumb_url": "https:\/\/twimgs.com\/nojitter\/darkreading\/dr-logo.jpg",
+                    "from_url": "https:\/\/www.darkreading.com\/risk\/german-schools-ban-office-365-cite-privacy-concerns\/d\/d-id\/1335239?_mc=NL_DR_EDT_DR_daily_20190715&cid=NL_DR_EDT_DR_daily_20190715&elq_mid=91940&elq_cid=22621059",
+                    "thumb_width": 600,
+                    "thumb_height": 600,
+                    "service_icon": "https:\/\/img.deusm.com\/darkreading\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.darkreading.com\/risk\/german-schools-ban-office-365-cite-privacy-concerns\/d\/d-id\/1335239?_mc=NL_DR_EDT_DR_daily_20190715&amp;cid=NL_DR_EDT_DR_daily_20190715&amp;elq_mid=91940&amp;elq_cid=22621059"
+                }
+            ],
+            "thread_ts": "1563225219.008600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1563226668.008800",
+            "reply_users": [
+                "UGBBF7X8X"
+            ],
+            "replies": [
+                {
+                    "user": "UGBBF7X8X",
+                    "ts": "1563226668.008800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "874C8395-217B-4FC7-9F8D-F7D5006EED51",
+            "type": "message",
+            "text": "<https:\/\/blog.growthbot.org\/chatbots-were-the-next-big-thing-what-happened>",
+            "user": "UGBADAPRC",
+            "ts": "1563121836.008300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Chatbots were the next big thing: what happened?",
+                    "title_link": "https:\/\/blog.growthbot.org\/chatbots-were-the-next-big-thing-what-happened",
+                    "text": "A great bot can be about as useful as an average app. When it comes to rich, sophisticated, multi-layered apps, there's no competition. Today's most successful bot experiences take a hybrid approach, incorporating chat into a broader strategy that encompasses more traditional elements.",
+                    "fallback": "Chatbots were the next big thing: what happened?",
+                    "image_url": "https:\/\/blog.growthbot.org\/hubfs\/robot.jpeg#keepProtocol",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "from_url": "https:\/\/blog.growthbot.org\/chatbots-were-the-next-big-thing-what-happened",
+                    "image_bytes": 42579,
+                    "service_icon": "https:\/\/blog.growthbot.org\/hubfs\/growth%20bot%20small%20logo.png",
+                    "service_name": "blog.growthbot.org",
+                    "id": 1,
+                    "original_url": "https:\/\/blog.growthbot.org\/chatbots-were-the-next-big-thing-what-happened"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "B4CC77FB-893E-4AF1-8392-BBA5E6752AE2",
+            "type": "message",
+            "text": "<https:\/\/9to5mac.com\/2019\/07\/10\/zoom-apple-macos-update\/>",
+            "user": "UKSGNE475",
+            "ts": "1563059620.008000",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "9to5Mac",
+                    "title": "Apple pushes silent macOS update to close Zoom vulnerability - 9to5Mac",
+                    "title_link": "https:\/\/9to5mac.com\/2019\/07\/10\/zoom-apple-macos-update\/",
+                    "text": "Apple has confirmed that it pushed a silent update to Mac users to resolve a vulnerability in the third-party Zoom app.",
+                    "fallback": "9to5Mac: Apple pushes silent macOS update to close Zoom vulnerability - 9to5Mac",
+                    "image_url": "https:\/\/9to5mac.com\/wp-content\/uploads\/sites\/6\/2018\/12\/2018-MacBook-Air-Open.jpg?quality=82&strip=all",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "ts": 1562801277,
+                    "from_url": "https:\/\/9to5mac.com\/2019\/07\/10\/zoom-apple-macos-update\/",
+                    "image_bytes": 193803,
+                    "service_icon": "https:\/\/9to5mac.com\/wp-content\/themes\/9to5-2015\/images\/favicons\/9to5mac\/9to5mac-touch-icon-iphone-retina.png",
+                    "id": 1,
+                    "original_url": "https:\/\/9to5mac.com\/2019\/07\/10\/zoom-apple-macos-update\/"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "70D4A338-89C2-4500-88E7-4799CFF511D8",
+            "type": "message",
+            "text": "700 million is peanuts to them. Probably just another way to reduce their taxes in which they pay 0 . But it\u2019s better than nothing ",
+            "user": "UGA7MQ95G",
+            "ts": "1562861371.006700",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1562858829.004300",
+            "parent_user_id": "UG9Q2KANP",
+            "reactions": [
+                {
+                    "name": "moneybag",
+                    "users": [
+                        "UG9Q2KANP"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2f6c36d9-8644-4a89-b3a2-85de1d361e22",
+            "type": "message",
+            "text": "<https:\/\/www.cnn.com\/2019\/07\/11\/tech\/amazon-retraining-workers\/index.html>",
+            "user": "UG9Q2KANP",
+            "ts": "1562858829.004300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "CNN",
+                    "title": "Amazon plans to retrain 100,000 employees",
+                    "title_link": "https:\/\/www.cnn.com\/2019\/07\/11\/tech\/amazon-retraining-workers\/index.html",
+                    "text": "Amazon announced it will spend $700 million over the next six years to help retrain a third of its US workforce to adapt to an economy increasingly disrupted by automation and new technology.",
+                    "fallback": "CNN: Amazon plans to retrain 100,000 employees",
+                    "image_url": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/181026130405-amazon-fullfillment-center-super-tease.jpg",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "from_url": "https:\/\/www.cnn.com\/2019\/07\/11\/tech\/amazon-retraining-workers\/index.html",
+                    "image_bytes": 144235,
+                    "service_icon": "https:\/\/www.cnn.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.cnn.com\/2019\/07\/11\/tech\/amazon-retraining-workers\/index.html"
+                }
+            ],
+            "thread_ts": "1562858829.004300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1562861371.006700",
+            "reply_users": [
+                "UGA7MQ95G"
+            ],
+            "replies": [
+                {
+                    "user": "UGA7MQ95G",
+                    "ts": "1562861371.006700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "9388A76E-691A-4883-8795-B4F77E23A570",
+            "type": "message",
+            "text": "<https:\/\/dfedigital.blog.gov.uk\/2019\/07\/08\/culture-is-our-strategy\/>",
+            "user": "UKLR3AEG4",
+            "ts": "1562728027.003800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Culture is our strategy",
+                    "title_link": "https:\/\/dfedigital.blog.gov.uk\/2019\/07\/08\/culture-is-our-strategy\/",
+                    "text": "Our chief digital officer Emma Stace talks about how her leadership team strikes a balance between culture and delivery and why paying close attention to our people underpins everything.",
+                    "fallback": "Culture is our strategy",
+                    "image_url": "https:\/\/dfedigital.blog.gov.uk\/wp-content\/themes\/gds-blogs\/build\/govuk_template\/assets\/images\/opengraph-image.png?0.22.3",
+                    "from_url": "https:\/\/dfedigital.blog.gov.uk\/2019\/07\/08\/culture-is-our-strategy\/",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 15380,
+                    "service_icon": "https:\/\/dfedigital.blog.gov.uk\/wp-content\/themes\/gds-blogs\/build\/govuk_template\/assets\/images\/apple-touch-icon-180x180.png?0.22.3",
+                    "service_name": "dfedigital.blog.gov.uk",
+                    "id": 1,
+                    "original_url": "https:\/\/dfedigital.blog.gov.uk\/2019\/07\/08\/culture-is-our-strategy\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "+1::skin-tone-3",
+                    "users": [
+                        "UJ9VAC14L"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "heart_eyes",
+                    "users": [
+                        "UKHAC3S9Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "496A47F3-CF5F-4549-B3B5-4199FFDFA14B",
+            "type": "message",
+            "text": "Will add this tomorrow as I can\u2019t edit from my phone - <https:\/\/www.canada.ca\/en\/government\/system\/digital-government\/living-digital.html>. Features people working in digital, could help identify future SMEs",
+            "user": "UKLR3AEG4",
+            "ts": "1562724145.003400",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1562700288.002100",
+            "parent_user_id": "UGB522JLA"
+        },
+        {
+            "client_msg_id": "6bf5b5d6-5fd0-4a88-9b35-b998a620d685",
+            "type": "message",
+            "text": "Hello everyone, sorry for cross-posting! As we are ramping up our DOL work, I would like ask you to contribute to our Curation sources document as you add content to this channel <https:\/\/docs.google.com\/document\/d\/1cRJYAUtUSMactks3GsvlbQrA12W02zmyFbBnxXH55Ig\/edit?usp=sharing>.\n\nThis document is to collect sources of content for our future MVPs.\n\nIf you know a particular website, newsletter, a person on Twitter, etc that are a great source of content on a certain topic, please add it under that topic in \"Topic-specific sources\".\n\n\"General\" segment is for websites or people who might be a good source for a number of the identified topics.\n\nAdd a few keywords about the resource, so it is not just a link.\n\nIf you come across a specific resource that should be added to the next MVP, use this Airtable form to add it to the database <https:\/\/airtable.com\/shrhxO1SMgk3eM6Pb>,  but if you have no time to add it to the database, add it under \u201cTopic-specific resources for future MVPs\u201d, so it does not get lost.\n\nThank you!",
+            "user": "UGB522JLA",
+            "ts": "1562700288.002100",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UGB522JLA",
+                "ts": "1562700390.000000"
+            },
+            "thread_ts": "1562700288.002100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1562724145.003400",
+            "reply_users": [
+                "UKLR3AEG4"
+            ],
+            "replies": [
+                {
+                    "user": "UKLR3AEG4",
+                    "ts": "1562724145.003400"
+                }
+            ],
+            "subscribed": false,
+            "pinned_to": [
+                "CG9SNJY68"
+            ],
+            "pinned_info": {
+                "channel": "CG9SNJY68",
+                "pinned_by": "UGB522JLA",
+                "pinned_ts": 1562700293
+            },
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UKLR3AEG4"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c17ff1bd-9e3d-4091-b652-955aea857af4",
+            "type": "message",
+            "text": "^ great tool , somthing my old coop used",
+            "user": "UJFGFCM4Y",
+            "ts": "1562696335.001400",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "9B39CC11-F62F-4012-BC7E-CA931008D789",
+            "type": "message",
+            "text": "<https:\/\/about.gitlab.com\/company\/culture\/all-remote\/resources\/>",
+            "user": "UGA7MQ95G",
+            "ts": "1562694236.000800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "GitLab",
+                    "title": "Remote-work resources",
+                    "title_link": "https:\/\/about.gitlab.com\/company\/culture\/all-remote\/resources\/",
+                    "text": "Code, test &amp; deploy with GitLab. Everyone can contribute!",
+                    "fallback": "GitLab: Remote-work resources",
+                    "image_url": "https:\/\/about.gitlab.com\/images\/blogimages\/gitlab-blog-cover.png",
+                    "from_url": "https:\/\/about.gitlab.com\/company\/culture\/all-remote\/resources\/",
+                    "image_width": 357,
+                    "image_height": 250,
+                    "image_bytes": 211498,
+                    "id": 1,
+                    "original_url": "https:\/\/about.gitlab.com\/company\/culture\/all-remote\/resources\/"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "553C425F-FB92-4996-BB54-4146A08ED51D",
+            "type": "message",
+            "text": "Hello! As some of you know, I\u2019m currently pursuing a part time certificate with uOfT in strategic public relations! My current course asked us to create a blog and its part of my regular assignments to publish new blogs! My blog follows the journeys of the OutsideEight, those pursuing something outside their regular 9 to 5! I just published my second one this morning and thought I\u2019d share the article as a suggested morning read :) <http:\/\/outsideeight.com\/index.php\/2019\/06\/26\/out-of-your-vulnerabilities-will-come-your-strength\/>",
+            "user": "UKLR3AEG4",
+            "ts": "1561555298.006500",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Outside Eight",
+                    "title": "Out of your Vulnerabilities will come your Strength",
+                    "title_link": "http:\/\/outsideeight.com\/index.php\/2019\/06\/26\/out-of-your-vulnerabilities-will-come-your-strength\/",
+                    "text": "Learn how Claudia Levac\u2019s pursuit of her EMBA challenged her to refine her business skills and define what type of leader she\u2019d like to become.",
+                    "fallback": "Outside Eight: Out of your Vulnerabilities will come your Strength",
+                    "image_url": "https:\/\/i0.wp.com\/outsideeight.com\/wp-content\/uploads\/2019\/06\/Screen-Shot-2019-06-25-at-10.41.35-PM-2.png?fit=1200%2C428",
+                    "image_width": 700,
+                    "image_height": 250,
+                    "ts": 1561554694,
+                    "from_url": "http:\/\/outsideeight.com\/index.php\/2019\/06\/26\/out-of-your-vulnerabilities-will-come-your-strength\/",
+                    "image_bytes": 190074,
+                    "service_icon": "https:\/\/i2.wp.com\/outsideeight.com\/wp-content\/uploads\/2019\/06\/logo-solo-oe.png?fit=114%2C108",
+                    "id": 1,
+                    "original_url": "http:\/\/outsideeight.com\/index.php\/2019\/06\/26\/out-of-your-vulnerabilities-will-come-your-strength\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "heart_eyes",
+                    "users": [
+                        "UGBFAD9T8"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "UGB522JLA"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ACB81087-133E-46EA-BC3F-9BBB07B86CC8",
+            "type": "message",
+            "text": "<https:\/\/apple.news\/A4T0DwnGHRs6LjPZCZ0S0xg>",
+            "user": "UG9TY931Q",
+            "ts": "1561468340.003300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Slack Is Bad, Actually \u2014 HuffPost Canada",
+                    "title_link": "https:\/\/apple.news\/A4T0DwnGHRs6LjPZCZ0S0xg",
+                    "text": "\"I Slacked you\" may still be a confusing phrase to some -- but not for long,if Slack has anything to say about it. The fast-growing company began tradingon the New York Stock Exchange last week with the ambition that its corporatechat platform will enter even more offices and lexicons.The jury is out on whether Slack, reportedly use by 10 million-plus people, isa good thing for productivity and communication. With its instant messagingconvenience, Slack is designed to keep your attention within",
+                    "fallback": "Slack Is Bad, Actually \u2014 HuffPost Canada",
+                    "thumb_url": "https:\/\/c.apple.news\/AgEXQWo2QWUzQVBOUWptNDFYVnh6cjBab0EAMA",
+                    "from_url": "https:\/\/apple.news\/A4T0DwnGHRs6LjPZCZ0S0xg",
+                    "thumb_width": 750,
+                    "thumb_height": 420,
+                    "service_icon": "https:\/\/apple.news\/images\/apple-touch-icon.png",
+                    "service_name": "apple.news",
+                    "id": 1,
+                    "original_url": "https:\/\/apple.news\/A4T0DwnGHRs6LjPZCZ0S0xg"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FKJ3Z2DV1",
+                    "created": 1561464282,
+                    "timestamp": 1561464282,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UJ9VAC14L",
+                    "editable": false,
+                    "size": 1005076,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKJ3Z2DV1\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKJ3Z2DV1\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJ3Z2DV1-07e5407430\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 4032,
+                    "original_h": 3024,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UJ9VAC14L\/FKJ3Z2DV1\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FKJ3Z2DV1-c828051146",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UJ9VAC14L",
+            "display_as_bot": false,
+            "ts": "1561464288.002900",
+            "client_msg_id": "1C97F19C-8B94-4AB1-A962-E089B4C6EDB6"
+        },
+        {
+            "client_msg_id": "c3b07300-40e4-41f8-b7f9-6333cecfb38f",
+            "type": "message",
+            "text": "heard the interview with the project lead while running this week end.. mostly promoting the bright side but tending to belittle the darker side.",
+            "user": "UG99E6Y7J",
+            "ts": "1561400254.002600",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UG99E6Y7J",
+                "ts": "1561400624.000000"
+            },
+            "thread_ts": "1561399109.001800",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "913a3026-9192-4a1e-bba1-860cecd55c68",
+            "type": "message",
+            "text": "no worry MITLab Wi-Fi driven AI will fix all that one day soon. <https:\/\/www.vice.com\/en_us\/article\/a3aaqp\/mit-device-uses-wifi-to-see-through-walls-and-track-your-movements>",
+            "user": "UG99E6Y7J",
+            "ts": "1561400158.002200",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UG99E6Y7J",
+                "ts": "1561400171.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "Vice",
+                    "title": "MIT Device Uses Wi-Fi to \u2018See\u2019 Through Walls and Track Your Movements",
+                    "title_link": "https:\/\/www.vice.com\/en_us\/article\/a3aaqp\/mit-device-uses-wifi-to-see-through-walls-and-track-your-movements",
+                    "text": "Researchers have been working on this technology since the 70s, and it\u2019s getting more precise.",
+                    "fallback": "Vice: MIT Device Uses Wi-Fi to \u2018See\u2019 Through Walls and Track Your Movements",
+                    "image_url": "https:\/\/video-images.vice.com\/articles\/5b211986d06ccd000822bb9a\/lede\/1528896003580-RF-Pose-different-scenes-credit-MIT-CSAIL.png?crop=0.9111375976691829xw:1xh;center,center&resize=1200:*",
+                    "ts": 1528896092,
+                    "from_url": "https:\/\/www.vice.com\/en_us\/article\/a3aaqp\/mit-device-uses-wifi-to-see-through-walls-and-track-your-movements",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "image_bytes": 107434,
+                    "service_icon": "https:\/\/vice-web-statics-cdn.vice.com\/favicons\/vice\/apple-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.vice.com\/en_us\/article\/a3aaqp\/mit-device-uses-wifi-to-see-through-walls-and-track-your-movements"
+                }
+            ],
+            "thread_ts": "1561399109.001800",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "a11fc838-ec45-4ffc-a6fe-3815c995572f",
+            "type": "message",
+            "text": "Thanks for sharing, Richard! It didn't really touch on it but a major way to make things less biased or discriminatory in AI systems is to hire for more diversity in the people who design the systems. Diverse groups are more likely to recognize prejudice in training sets (e.g., when HP's laptop cameras could not identify minorities because the training set featured pics of only white people)",
+            "user": "UJPH1V9EF",
+            "ts": "1561399430.002000",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1561399109.001800",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "36f4ac84-eb7e-44b3-82ae-532ed37d8298",
+            "type": "message",
+            "text": "<https:\/\/www.mckinsey.com\/featured-insights\/artificial-intelligence\/tackling-bias-in-artificial-intelligence-and-in-humans>",
+            "user": "UG99E6Y7J",
+            "ts": "1561399109.001800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "McKinsey &amp; Company",
+                    "title": "Tackling bias in artificial intelligence (and in humans)",
+                    "title_link": "https:\/\/www.mckinsey.com\/featured-insights\/artificial-intelligence\/tackling-bias-in-artificial-intelligence-and-in-humans",
+                    "text": "In order to avoid bias in artificial intelligence, fair and transparent decisions will be needed to build confidence in AI systems.",
+                    "fallback": "McKinsey &amp; Company: Tackling bias in artificial intelligence (and in humans)",
+                    "image_url": "https:\/\/www.mckinsey.com\/~\/media\/McKinsey\/Featured%20Insights\/Artificial%20Intelligence\/Tackling%20bias%20in%20artificial%20intelligence%20and%20in%20humans\/bias-in-ai-956192492-1536x1536.ashx",
+                    "from_url": "https:\/\/www.mckinsey.com\/featured-insights\/artificial-intelligence\/tackling-bias-in-artificial-intelligence-and-in-humans",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 35068,
+                    "service_icon": "https:\/\/www.mckinsey.com\/redesign\/resources\/images\/mck-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.mckinsey.com\/featured-insights\/artificial-intelligence\/tackling-bias-in-artificial-intelligence-and-in-humans"
+                }
+            ],
+            "thread_ts": "1561399109.001800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1561400254.002600",
+            "reply_users": [
+                "UJPH1V9EF",
+                "UG99E6Y7J"
+            ],
+            "replies": [
+                {
+                    "user": "UJPH1V9EF",
+                    "ts": "1561399430.002000"
+                },
+                {
+                    "user": "UG99E6Y7J",
+                    "ts": "1561400158.002200"
+                },
+                {
+                    "user": "UG99E6Y7J",
+                    "ts": "1561400254.002600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "693570a6-9d3f-496d-91b6-775a144e99a4",
+            "type": "message",
+            "text": "Thanks Isa.   <@UG9SGK05Q> <@UG9SYEV36>  Cunnington now takes on the very unit that is the gateway to sharing IP by GDS.  If not on your hit list for August trip, suggest he be added. Also I am told Taki may join the TBS-led trip to the UK in a few weeks (re IPA+Infrastructure &amp; Project Authority and Project Mgmt file). You may suggest he meets with Cunnington on the learning side of their UK Expertise export (and revenue generation) strategy.",
+            "user": "UG99E6Y7J",
+            "ts": "1561127457.020500",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1561118766.020300",
+            "parent_user_id": "UG9TY931Q"
+        },
+        {
+            "client_msg_id": "c995df51-096c-427b-9218-9001af642d3d",
+            "type": "message",
+            "text": "DG of GDS will now be DG of new International Government Services <https:\/\/gds.blog.gov.uk\/2019\/06\/21\/goodbye-gds-hello-world\/>",
+            "user": "UG9TY931Q",
+            "ts": "1561118766.020300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Goodbye GDS, \u201cHello, World!\u201d",
+                    "title_link": "https:\/\/gds.blog.gov.uk\/2019\/06\/21\/goodbye-gds-hello-world\/",
+                    "text": "When I joined GDS as Director General nearly 3 years ago, I said I wanted to strengthen and accelerate our work to help transform government and improve public services for citizens. For me personally, it\u2019s mission accomplished.",
+                    "fallback": "Goodbye GDS, \u201cHello, World!\u201d",
+                    "image_url": "https:\/\/gds.blog.gov.uk\/wp-content\/themes\/gds-blogs\/build\/govuk_template\/assets\/images\/opengraph-image.png?0.22.3",
+                    "from_url": "https:\/\/gds.blog.gov.uk\/2019\/06\/21\/goodbye-gds-hello-world\/",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 15380,
+                    "service_icon": "https:\/\/gds.blog.gov.uk\/wp-content\/themes\/gds-blogs\/build\/govuk_template\/assets\/images\/apple-touch-icon-180x180.png?0.22.3",
+                    "service_name": "gds.blog.gov.uk",
+                    "id": 1,
+                    "original_url": "https:\/\/gds.blog.gov.uk\/2019\/06\/21\/goodbye-gds-hello-world\/"
+                }
+            ],
+            "thread_ts": "1561118766.020300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1561127457.020500",
+            "reply_users": [
+                "UG99E6Y7J"
+            ],
+            "replies": [
+                {
+                    "user": "UG99E6Y7J",
+                    "ts": "1561127457.020500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "654674aa-0cdf-4f3f-9053-8681d76530e6",
+            "type": "message",
+            "text": "<https:\/\/medium.com\/oneteamgov\/nesta-radical-futures-brief-f3b8329be516>",
+            "user": "UG99E6Y7J",
+            "ts": "1561082282.019400",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Medium",
+                    "title": "Nesta Radical Futures brief",
+                    "title_link": "https:\/\/medium.com\/oneteamgov\/nesta-radical-futures-brief-f3b8329be516",
+                    "text": "Help us to create our radical vision\u200a\u2014\u200afind out more here.",
+                    "fallback": "Medium: Nesta Radical Futures brief",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*CQ8YUCh-ZQ1osnuHdO1g_A.jpeg",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "3 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1560934867,
+                    "from_url": "https:\/\/medium.com\/oneteamgov\/nesta-radical-futures-brief-f3b8329be516",
+                    "image_width": 417,
+                    "image_height": 250,
+                    "image_bytes": 154417,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*vWax03ZPPUChvQcoWMP0Jg.jpeg",
+                    "id": 1,
+                    "original_url": "https:\/\/medium.com\/oneteamgov\/nesta-radical-futures-brief-f3b8329be516"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "afea0653-a1ad-4ae3-a1f9-4ace3bd4e361",
+            "type": "message",
+            "text": "Recommended reading via <@UG99E6Y7J> <https:\/\/medium.com\/fwd50\/fwd50-2019-content-survey-1725006cb129>",
+            "user": "UG9SGK05Q",
+            "ts": "1561046054.019000",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Medium",
+                    "title": "What you\u2019re thinking in 2019",
+                    "title_link": "https:\/\/medium.com\/fwd50\/fwd50-2019-content-survey-1725006cb129",
+                    "text": "The results of our content survey on digital government",
+                    "fallback": "Medium: What you\u2019re thinking in 2019",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*fO5KnRclbCBbviZuwQcrOg.jpeg",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "10 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1560790499,
+                    "from_url": "https:\/\/medium.com\/fwd50\/fwd50-2019-content-survey-1725006cb129",
+                    "image_width": 331,
+                    "image_height": 250,
+                    "image_bytes": 222072,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*XM33IkGWSbsa3Ndrd04FbA.png",
+                    "id": 1,
+                    "original_url": "https:\/\/medium.com\/fwd50\/fwd50-2019-content-survey-1725006cb129"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FKJMFU7GR",
+                    "created": 1561031616,
+                    "timestamp": 1561031616,
+                    "name": "2018 - Mergel - GIQ - AgileGovernment.pdf",
+                    "title": "2018 - Mergel - GIQ - AgileGovernment.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG9SGK05Q",
+                    "editable": false,
+                    "size": 306356,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKJMFU7GR\/2018_-_mergel_-_giq_-_agilegovernment.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKJMFU7GR\/download\/2018_-_mergel_-_giq_-_agilegovernment.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKJMFU7GR-a2f18bb789\/2018_-_mergel_-_giq_-_agilegovernment_thumb_pdf.png",
+                    "thumb_pdf_w": 909,
+                    "thumb_pdf_h": 1213,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG9SGK05Q\/FKJMFU7GR\/2018_-_mergel_-_giq_-_agilegovernment.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FKJMFU7GR-a23c29d513",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG9SGK05Q",
+            "display_as_bot": false,
+            "ts": "1561031620.018300",
+            "client_msg_id": "560aa099-d44f-47ea-aee0-857f47243e4f",
+            "reactions": [
+                {
+                    "name": "nerd_face",
+                    "users": [
+                        "UH5H1HH1U"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "bfdcd2f4-867e-4ff5-bacc-f0c1153571a9",
+            "type": "message",
+            "text": "^ Framework for forming a Concept Inventory to identify misconceptions early on. This is specifically around programming but translates very easily",
+            "user": "UGA7MQ95G",
+            "ts": "1560968591.018200",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "fe6409a5-f258-48cd-91cd-d8e2af0c3914",
+            "type": "message",
+            "text": "<http:\/\/publish.illinois.edu\/glherman\/files\/2016\/03\/2010-SIGCSE-Programming-Misconceptions.pdf>",
+            "user": "UGA7MQ95G",
+            "ts": "1560968534.017100",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "type": "message",
+            "text": "PDF version ...",
+            "files": [
+                {
+                    "id": "FKNTH4YP6",
+                    "created": 1560913183,
+                    "timestamp": 1560913183,
+                    "name": "60471-MITSMR-Deloitte-Digital-Report-2019.pdf",
+                    "title": "60471-MITSMR-Deloitte-Digital-Report-2019.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG99E6Y7J",
+                    "editable": false,
+                    "size": 1496415,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKNTH4YP6\/60471-mitsmr-deloitte-digital-report-2019.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKNTH4YP6\/download\/60471-mitsmr-deloitte-digital-report-2019.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKNTH4YP6-12fa9c4d15\/60471-mitsmr-deloitte-digital-report-2019_thumb_pdf.png",
+                    "thumb_pdf_w": 921,
+                    "thumb_pdf_h": 1189,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG99E6Y7J\/FKNTH4YP6\/60471-mitsmr-deloitte-digital-report-2019.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FKNTH4YP6-f37bc85f0d",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG99E6Y7J",
+            "display_as_bot": false,
+            "ts": "1560913184.016400",
+            "client_msg_id": "52c46b55-de57-4e7c-84c2-296ecc696a3f"
+        },
+        {
+            "client_msg_id": "9ca9aa2e-dab1-40c2-b24f-1870d88ff5f7",
+            "type": "message",
+            "text": "Cross-functional teams \"learn cheap and learn fast\" at CarMax   <https:\/\/sloanreview.mit.edu\/projects\/accelerating-digital-innovation-inside-and-out\/?utm_medium=email&amp;utm_source=newsletter&amp;utm_campaign=dlrpt2019&amp;utm_content=headerA>",
+            "user": "UG99E6Y7J",
+            "ts": "1560913121.016200",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "MIT Sloan Management Review",
+                    "title": "Accelerating Digital Innovation Inside and Out",
+                    "title_link": "https:\/\/sloanreview.mit.edu\/projects\/accelerating-digital-innovation-inside-and-out\/?utm_medium=email&utm_source=newsletter&utm_campaign=dlrpt2019&utm_content=headerA",
+                    "text": "Digitally maturing companies are not only innovating more, they\u2019re innovating differently.",
+                    "fallback": "MIT Sloan Management Review: Accelerating Digital Innovation Inside and Out",
+                    "image_url": "https:\/\/sloanreview.mit.edu\/content\/uploads\/2019\/05\/19-Deloitte-Report-2400-300x300.jpg",
+                    "from_url": "https:\/\/sloanreview.mit.edu\/projects\/accelerating-digital-innovation-inside-and-out\/?utm_medium=email&utm_source=newsletter&utm_campaign=dlrpt2019&utm_content=headerA",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 24649,
+                    "service_icon": "https:\/\/sloanreview.mit.edu\/static\/apple-touch-icon-144x144-precomposed.png",
+                    "id": 1,
+                    "original_url": "https:\/\/sloanreview.mit.edu\/projects\/accelerating-digital-innovation-inside-and-out\/?utm_medium=email&amp;utm_source=newsletter&amp;utm_campaign=dlrpt2019&amp;utm_content=headerA"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "DEB7563F-50A2-433F-88A0-12892BDD7D40",
+            "type": "message",
+            "text": "Ecole 42, Paris\u2019 24\/7 free teacherless coding school to open their first canadian school in Quebec City in 2020.. :nerd_face:\n<https:\/\/www.journaldequebec.com\/2019\/06\/18\/lecole-de-programmation-gratuite-cherche-un-local-dans-saint-roch>",
+            "user": "UG9TY931Q",
+            "ts": "1560900097.015100",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UG9TY931Q",
+                "ts": "1560900121.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "Le Journal de Qu\u00e9bec",
+                    "title": "L'\u00e9cole de programmation gratuite cherche un local dans Saint-Roch",
+                    "title_link": "https:\/\/www.journaldequebec.com\/2019\/06\/18\/lecole-de-programmation-gratuite-cherche-un-local-dans-saint-roch",
+                    "text": "L'\u00e9cole 42, une institution gratuite et sans professeur, confirme sa venue \u00e0 Qu\u00e9bec et s'installera dans Saint-Roch en 2020.",
+                    "fallback": "Le Journal de Qu\u00e9bec: L'\u00e9cole de programmation gratuite cherche un local dans Saint-Roch",
+                    "image_url": "https:\/\/storage.journaldequebec.com\/v1\/dynamic_resize\/sws_path\/jdx-prod-images\/4751b130-f366-11e8-9ba5-dbda0b73b39e_JDX-2x1_WEB.jpg?quality=80&size=1200x&version=1",
+                    "from_url": "https:\/\/www.journaldequebec.com\/2019\/06\/18\/lecole-de-programmation-gratuite-cherche-un-local-dans-saint-roch",
+                    "image_width": 607,
+                    "image_height": 250,
+                    "image_bytes": 86230,
+                    "service_icon": "https:\/\/storage.journaldequebec.com\/v1\/jdx-prod-images\/static\/photo\/719da2ed-ad54-4254-860c-e7d36d53e7f0_jdq_blanc144.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.journaldequebec.com\/2019\/06\/18\/lecole-de-programmation-gratuite-cherche-un-local-dans-saint-roch"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Supporting notes\/literature review",
+            "files": [
+                {
+                    "id": "FKB9S0WHY",
+                    "created": 1560872014,
+                    "timestamp": 1560872014,
+                    "name": "June 12 Prez notes.pdf",
+                    "title": "June 12 Prez notes.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG9SGK05Q",
+                    "editable": false,
+                    "size": 218721,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKB9S0WHY\/june_12_prez_notes.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKB9S0WHY\/download\/june_12_prez_notes.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKB9S0WHY-0470fb038e\/june_12_prez_notes_thumb_pdf.png",
+                    "thumb_pdf_w": 935,
+                    "thumb_pdf_h": 1210,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG9SGK05Q\/FKB9S0WHY\/june_12_prez_notes.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FKB9S0WHY-6c6963ddd3",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG9SGK05Q",
+            "display_as_bot": false,
+            "ts": "1560872015.011500",
+            "client_msg_id": "21db4d20-d40b-4a01-ac84-6a18b9e09aec",
+            "thread_ts": "1560871945.011200",
+            "parent_user_id": "UG9SGK05Q"
+        },
+        {
+            "type": "message",
+            "text": "One of Dr. Jeffrey Roy's MPA students is researching digital skills evolution: full doc to follow.",
+            "files": [
+                {
+                    "id": "FKN7Z3ZJQ",
+                    "created": 1560871943,
+                    "timestamp": 1560871943,
+                    "name": "Digital Skills Evolution - June 12 Presentation updated.pdf",
+                    "title": "Digital Skills Evolution - June 12 Presentation updated.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG9SGK05Q",
+                    "editable": false,
+                    "size": 3092423,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKN7Z3ZJQ\/digital_skills_evolution_-_june_12_presentation_updated.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FKN7Z3ZJQ\/download\/digital_skills_evolution_-_june_12_presentation_updated.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FKN7Z3ZJQ-31f1564060\/digital_skills_evolution_-_june_12_presentation_updated_thumb_pdf.png",
+                    "thumb_pdf_w": 1100,
+                    "thumb_pdf_h": 619,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG9SGK05Q\/FKN7Z3ZJQ\/digital_skills_evolution_-_june_12_presentation_updated.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FKN7Z3ZJQ-28d060f17f",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG9SGK05Q",
+            "display_as_bot": false,
+            "ts": "1560871945.011200",
+            "client_msg_id": "1251327f-8e8e-42d0-80a7-9fe5032f1409",
+            "thread_ts": "1560871945.011200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1560872015.011500",
+            "reply_users": [
+                "UG9SGK05Q"
+            ],
+            "replies": [
+                {
+                    "user": "UG9SGK05Q",
+                    "ts": "1560872015.011500"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "UG99E6Y7J"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "f066d44b-b115-4afd-b467-a0faf4dcaae8",
+            "type": "message",
+            "text": "McMindfulness ... Guardian as a source  being put aside, same criticism made by many on the other side of the aisle, for the same reasons. A leadership question...   <https:\/\/www.theguardian.com\/lifeandstyle\/2019\/jun\/14\/the-mindfulness-conspiracy-capitalist-spirituality>",
+            "user": "UG99E6Y7J",
+            "ts": "1560868905.010900",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UG99E6Y7J",
+                "ts": "1560868933.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "the Guardian",
+                    "title": "The mindfulness conspiracy",
+                    "title_link": "https:\/\/www.theguardian.com\/lifeandstyle\/2019\/jun\/14\/the-mindfulness-conspiracy-capitalist-spirituality",
+                    "text": "The long read: It is sold as a force that can help us cope with the ravages of capitalism, but with its inward focus, mindful meditation may be the enemy of activism",
+                    "fallback": "the Guardian: The mindfulness conspiracy",
+                    "image_url": "https:\/\/i.guim.co.uk\/img\/media\/5326eba626078cbaa8d00e7734dfed8fe7dbed79\/707_1395_790_474\/master\/790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64c8f543bfe806c1831af3f54c0aaafd",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "ts": 1560488408,
+                    "from_url": "https:\/\/www.theguardian.com\/lifeandstyle\/2019\/jun\/14\/the-mindfulness-conspiracy-capitalist-spirituality",
+                    "image_bytes": 257723,
+                    "service_icon": "https:\/\/assets.guim.co.uk\/images\/favicons\/fee5e2d638d1c35f6d501fa397e53329\/152x152.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.theguardian.com\/lifeandstyle\/2019\/jun\/14\/the-mindfulness-conspiracy-capitalist-spirituality"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "a1894432-f24b-4631-9732-e6c4ba6aee9b",
+            "type": "message",
+            "text": "That would be my ma :slightly_smiling_face:\n\nHer speech is on youtube too, was there cheering her on: <https:\/\/www.youtube.com\/watch?v=pS-Z43Wz638>",
+            "user": "UGBBF7X8X",
+            "ts": "1560735648.007900",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Introduction, Installation and Address of Yaprak Baltac\u0131og\u0306lu, as Carleton University Chancellor",
+                    "title_link": "https:\/\/www.youtube.com\/watch?v=pS-Z43Wz638",
+                    "author_name": "Carleton University",
+                    "author_link": "https:\/\/www.youtube.com\/user\/CarletonUvideos",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/pS-Z43Wz638\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Introduction, Installation and Address of Yaprak Baltac\u0131og\u0306lu, as Carleton University Chancellor",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/pS-Z43Wz638?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/www.youtube.com\/watch?v=pS-Z43Wz638",
+                    "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/watch?v=pS-Z43Wz638"
+                }
+            ],
+            "thread_ts": "1560517438.004900",
+            "parent_user_id": "UGA7MQ95G"
+        },
+        {
+            "client_msg_id": "2B5E5C07-3C19-4F03-996A-39A72CA02AFB",
+            "type": "message",
+            "text": "<@UGB522JLA> the one and only! I tried to keep it cool for weeks when I first met <@UGBBF7X8X> :joy_cat:",
+            "user": "UGBFAD9T8",
+            "ts": "1560735415.007500",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1560517438.004900",
+            "parent_user_id": "UGA7MQ95G"
+        },
+        {
+            "client_msg_id": "2BBF0DDC-03ED-4CF3-AB16-DCEE21F0378A",
+            "type": "message",
+            "text": ":thinking_face::thinking_face::thinking_face: ",
+            "user": "UGA7MQ95G",
+            "ts": "1560707510.006300",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1560517438.004900",
+            "parent_user_id": "UGA7MQ95G"
+        },
+        {
+            "client_msg_id": "c9dd169e-07df-4388-b914-116e4d371a48",
+            "type": "message",
+            "text": "<@UGBBF7X8X>, are you related?",
+            "user": "UGB522JLA",
+            "ts": "1560662860.006000",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1560517438.004900",
+            "parent_user_id": "UGA7MQ95G"
+        },
+        {
+            "client_msg_id": "4497C471-76F9-44AF-8C7F-9278E738AAD6",
+            "type": "message",
+            "text": "Words of the wise \n<https:\/\/ottawacitizen.com\/opinion\/columnists\/baltacioglu-advice-from-an-immigrant-to-carleton-university-grads>",
+            "user": "UGA7MQ95G",
+            "ts": "1560517438.004900",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Ottawa Citizen",
+                    "service_url": "http:\/\/ottawacitizen.com",
+                    "title": "Baltacioglu: Advice from an immigrant to Carleton university grads",
+                    "title_link": "https:\/\/ottawacitizen.com\/opinion\/columnists\/baltacioglu-advice-from-an-immigrant-to-carleton-university-grads",
+                    "author_name": "Christina Spencer, Ottawa Citizen",
+                    "author_link": "https:\/\/ottawacitizen.com\/author\/christinaspencr",
+                    "thumb_url": "https:\/\/postmediaottawacitizen2.files.wordpress.com\/2019\/06\/top118596.jpg?fit=200%2C150",
+                    "thumb_width": 200,
+                    "thumb_height": 150,
+                    "text": "Love is riches that cannot be measured in dollars. And that is what Canada has been for me and countless immigrants before and after me, says the institution's new chancellor.",
+                    "fallback": "Ottawa Citizen Link: Baltacioglu: Advice from an immigrant to Carleton university grads",
+                    "from_url": "https:\/\/ottawacitizen.com\/opinion\/columnists\/baltacioglu-advice-from-an-immigrant-to-carleton-university-grads",
+                    "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/034e689d25278f80f8281f2c424607c3?s=114",
+                    "id": 1,
+                    "original_url": "https:\/\/ottawacitizen.com\/opinion\/columnists\/baltacioglu-advice-from-an-immigrant-to-carleton-university-grads"
+                }
+            ],
+            "thread_ts": "1560517438.004900",
+            "reply_count": 4,
+            "reply_users_count": 4,
+            "latest_reply": "1560735648.007900",
+            "reply_users": [
+                "UGB522JLA",
+                "UGA7MQ95G",
+                "UGBFAD9T8",
+                "UGBBF7X8X"
+            ],
+            "replies": [
+                {
+                    "user": "UGB522JLA",
+                    "ts": "1560662860.006000"
+                },
+                {
+                    "user": "UGA7MQ95G",
+                    "ts": "1560707510.006300"
+                },
+                {
+                    "user": "UGBFAD9T8",
+                    "ts": "1560735415.007500"
+                },
+                {
+                    "user": "UGBBF7X8X",
+                    "ts": "1560735648.007900"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UJPH1V9EF",
+                        "UG9T1KMB4",
+                        "UJNENP1JQ",
+                        "UJFGFCM4Y",
+                        "UHHSW0L7P",
+                        "UGB522JLA",
+                        "UGBFAD9T8"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "84388ba8-8f4a-4d69-bd1f-2876068a4bfd",
+            "type": "message",
+            "text": "great sub-head",
+            "user": "UGBADAPRC",
+            "ts": "1560426543.003900",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "71675f5d-b18c-4dc9-9d2a-6c9d0485d785",
+            "type": "message",
+            "text": "<https:\/\/www.niemanlab.org\/2019\/06\/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it\/>",
+            "user": "UG9SGK05Q",
+            "ts": "1560424185.003300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Nieman Lab",
+                    "title": "The New York Times has a course to teach its reporters data skills, and now they\u2019ve open-sourced it",
+                    "title_link": "https:\/\/www.niemanlab.org\/2019\/06\/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it\/",
+                    "text": "You can now VLOOKUP the SUMPRODUCT of the Times' training efforts. It's SORT of a TREND; even AVERAGE journalists can CONVERT data skills TO_DOLLARS.",
+                    "fallback": "Nieman Lab: The New York Times has a course to teach its reporters data skills, and now they\u2019ve open-sourced it",
+                    "image_url": "https:\/\/www.niemanlab.org\/images\/spreadsheet-in-space-lightest-700x401.jpg",
+                    "image_width": 436,
+                    "image_height": 250,
+                    "from_url": "https:\/\/www.niemanlab.org\/2019\/06\/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it\/",
+                    "image_bytes": 26744,
+                    "service_icon": "https:\/\/www.niemanlab.org\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.niemanlab.org\/2019\/06\/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UG99E6Y7J",
+                        "UJPH1V9EF"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "female-detective",
+                    "users": [
+                        "UG99E6Y7J"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "ESDC's Innovation Lab annual report... some good stuff to consider in it",
+            "files": [
+                {
+                    "id": "FK65BSUE6",
+                    "created": 1560384762,
+                    "timestamp": 1560384762,
+                    "name": "InnoLab_Annual_Report_English_Final__Digital_11x17_v12.pdf",
+                    "title": "InnoLab_Annual_Report_English_Final__Digital_11x17_v12.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "UG9TY931Q",
+                    "editable": false,
+                    "size": 11733576,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FK65BSUE6\/innolab_annual_report_english_final__digital_11x17_v12.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGB9RAJ5C-FK65BSUE6\/download\/innolab_annual_report_english_final__digital_11x17_v12.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGB9RAJ5C-FK65BSUE6-e604994ba7\/innolab_annual_report_english_final__digital_11x17_v12_thumb_pdf.png",
+                    "thumb_pdf_w": 935,
+                    "thumb_pdf_h": 1210,
+                    "permalink": "https:\/\/digitalnumerique.slack.com\/files\/UG9TY931Q\/FK65BSUE6\/innolab_annual_report_english_final__digital_11x17_v12.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/TGB9RAJ5C-FK65BSUE6-330d072e97",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UG9TY931Q",
+            "display_as_bot": false,
+            "ts": "1560384764.002900",
+            "client_msg_id": "e398014a-ab6c-42e6-90c3-205b3c1596c0"
+        },
+        {
+            "client_msg_id": "8d3851f7-c605-4fec-9699-456c29d863eb",
+            "type": "message",
+            "text": "Neat one from Element AI on Global AI talent: <https:\/\/jfgagne.ai\/talent-2019\/>",
+            "user": "UJPH1V9EF",
+            "ts": "1560270767.002000",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "jfgagne",
+                    "title": "Global AI Talent Report 2019 - jfgagne",
+                    "title_link": "https:\/\/jfgagne.ai\/talent-2019\/",
+                    "text": "Voir la version fran\u00e7aise Executive Summary There is strong evidence that the supply of top-tier AI talent does not meet the demand. Yet there is little visibility on precisely how scarce this talent is or where it is concentrated around the world. This report summarizes our second survey of the scope and breadth of the worldwide AI talent pool. Our research relies on three main data sources. First, to get a picture of the researchers who are moving the field forward, we reviewed the publications from 21 leading scientific conferences in the field of AI and analyzed the profiles of the authors. This expands upon our 2018 report, when we looked at just three conferences. Second, we analyzed the results of several targeted LinkedIn searches, which showed us how many individuals are self-reporting that they have doctorates as well as the requisite skills in different regions around the world. Finally, we looked to outside reports and other secondary sources to help us put our findings in context and better understand the talent pool in a rapidly changing global AI landscape. Our findings show that 22,400 people published at one or more of the top conferences in the field of machine...",
+                    "fallback": "jfgagne: Global AI Talent Report 2019 - jfgagne",
+                    "thumb_url": "https:\/\/i1.wp.com\/jfgagne.ai\/wp-content\/uploads\/2019\/03\/cover.jpg?fit=1045%2C542&ssl=1",
+                    "from_url": "https:\/\/jfgagne.ai\/talent-2019\/",
+                    "thumb_width": 1045,
+                    "thumb_height": 542,
+                    "service_icon": "https:\/\/i2.wp.com\/jfgagne.ai\/wp-content\/uploads\/2019\/03\/cropped-fav-1.png?fit=180%2C180&#038;ssl=1",
+                    "id": 1,
+                    "original_url": "https:\/\/jfgagne.ai\/talent-2019\/"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "CE007029-D1F2-4A88-9ED0-EB8E4B2E1985",
+            "type": "message",
+            "text": "Apolitical article on the Next Gen HR to Pay project \n<https:\/\/apolitical.co\/solution_article\/importance-of-early-engagement\/>",
+            "user": "UG9TY931Q",
+            "ts": "1560256143.001100",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Apolitical",
+                    "title": "The importance of early engagement for new public service initiatives | Apolitical",
+                    "title_link": "https:\/\/apolitical.co\/solution_article\/importance-of-early-engagement\/",
+                    "text": "This piece was written by Amanda Bernardo, Senior Advisor, Next Generation HR and Pay \u2014 Treasury Board of Canada Secretariat. For more like this, see our government innovation newsfeed. User engagement across the public service is used to develop more effective programs, policies and services. It serves as an opportunity to raise awareness, obtain feedback and course correct as needed in order to transform user...",
+                    "fallback": "Apolitical: The importance of early engagement for new public service initiatives | Apolitical",
+                    "image_url": "https:\/\/apolitical.co\/wp-content\/uploads\/2019\/02\/2042_01_19-NextGenHr-58-1.jpg",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "from_url": "https:\/\/apolitical.co\/solution_article\/importance-of-early-engagement\/",
+                    "image_bytes": 61268,
+                    "service_icon": "https:\/\/apolitical.co\/wp-content\/themes\/apolitical\/public\/favicons\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/apolitical.co\/solution_article\/importance-of-early-engagement\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "+1::skin-tone-5",
+                    "users": [
+                        "UHHSW0L7P"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "grin",
+                    "users": [
+                        "UHHSW0L7P"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d4073ff2-0c30-49c9-9a18-47db5c064022",
+            "type": "message",
+            "text": "<https:\/\/obj.ca\/article\/op-ed-new-government-procurement-projects-risk-adding-burdens-suppliers>",
+            "user": "UG9Q2KANP",
+            "ts": "1559759588.000400",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Op-ed: New government procurement projects risk adding burdens to suppliers | Ottawa Business Journal",
+                    "title_link": "https:\/\/obj.ca\/article\/op-ed-new-government-procurement-projects-risk-adding-burdens-suppliers",
+                    "text": "Hugh Chatfield argues that new procurement systems in development from both the federal and provincial governments could unnecessarily add administrative burden \u2013 and costs \u2013 to Ottawa-based suppliers",
+                    "fallback": "Op-ed: New government procurement projects risk adding burdens to suppliers | Ottawa Business Journal",
+                    "from_url": "https:\/\/obj.ca\/article\/op-ed-new-government-procurement-projects-risk-adding-burdens-suppliers",
+                    "service_icon": "https:\/\/obj.ca\/apple-touch-icons\/apple-touch-icon.png",
+                    "service_name": "obj.ca",
+                    "id": 1,
+                    "original_url": "https:\/\/obj.ca\/article\/op-ed-new-government-procurement-projects-risk-adding-burdens-suppliers"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "eadd963e-8ef6-4038-8063-27e7117a16af",
+            "type": "message",
+            "text": "supposedly regional ones are on the books for later this year",
+            "user": "UG9Q2KANP",
+            "ts": "1559759584.000100",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559585133.006600",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "d93338e1-9420-4d06-af82-54779584b36e",
+            "type": "message",
+            "text": "I wonder when they might have one in a region. I'm trying to make my own, and I find that I could use some support to make a dent.",
+            "user": "UHHSW0L7P",
+            "ts": "1559585247.006800",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559585133.006600",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "538f9f01-27df-4d8b-8d93-2c78413c0b54",
+            "type": "message",
+            "text": "the not so funny thng is that those work space hubs were proposed 20 years ago in  comprehensive study that went to gather dust somewhere at the then PWGSC...",
+            "user": "UG99E6Y7J",
+            "ts": "1559585133.006600",
+            "team": "TGB9RAJ5C",
+            "edited": {
+                "user": "UG99E6Y7J",
+                "ts": "1559585157.000000"
+            },
+            "thread_ts": "1559585133.006600",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1559759584.000100",
+            "reply_users": [
+                "UHHSW0L7P",
+                "UG9Q2KANP"
+            ],
+            "replies": [
+                {
+                    "user": "UHHSW0L7P",
+                    "ts": "1559585247.006800"
+                },
+                {
+                    "user": "UG9Q2KANP",
+                    "ts": "1559759584.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "597eefe2-4a5e-4c1e-9150-177f92c654c7",
+            "type": "message",
+            "text": "<https:\/\/ottawacitizen.com\/news\/local-news\/federal-government-opens-2-of-5-alternative-work-hubs-for-public-servants>",
+            "user": "UG9TY931Q",
+            "ts": "1559584569.004300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Ottawa Citizen",
+                    "service_url": "http:\/\/ottawacitizen.com",
+                    "title": "Federal government opens 2 of 5 alternative work hubs for public servants",
+                    "title_link": "https:\/\/ottawacitizen.com\/news\/local-news\/federal-government-opens-2-of-5-alternative-work-hubs-for-public-servants",
+                    "author_name": "Kayla Douglas",
+                    "author_link": "https:\/\/ottawacitizen.com\/author\/kadouglaspostmedia",
+                    "thumb_url": "https:\/\/postmediaottawacitizen2.files.wordpress.com\/2019\/06\/71683452-gccoworking1-jpeg-w.jpg?fit=200%2C150",
+                    "thumb_width": 200,
+                    "thumb_height": 150,
+                    "text": "The federal government announced Monday that it would be providing federal public servants with 385 work spaces across five sites in the National Capital Region, a move that Coun. Carol Anne Meehan says is a good start, but isn&rsquo;t quite enough to entirely combat Ottawa&rsquo;s growing issues with traffic congestion.\nThe pilot project, called GCcoworking, is being spearheaded by Public Services and Procurement Canada (PSPC) and seeks to provide federal government employees with flexible workplaces separate from their regular offices or homes.\nFree to use, the stations will be open from 7 a.m. to 6 p.m. on weekdays. Employees can either reserve them ahead of time online or just drop in.\n\n\nThis Touchdown Area is a new swing space at L&rsquo;Esplanade Laurier.\n\n\n\nThis Touchdown Area is a new swing space at L&rsquo;Esplanade Laurier.\n\n&ldquo;We have a vision where we would like any public servant to be able to work anywhere, any time,&rdquo; says Sonia Powell, director general of Workplace Solutions at PSPC. &ldquo;It&rsquo;s a concept for what future work will look like in federal public service.&rdquo;\nTwo of the five hub sites, L&rsquo;Esplanade Laurier in Centretown and 335 River Rd. in the south end, officially opened their doors to employees on Monday. Other locations at Place d&rsquo;Orl&eacute;ans, 555 Legget Dr. in Kanata and 480 boulevard de la Cit&eacute; in Gatineau are to open in August.\n&ldquo;When we selected the sites, we chose one central location as a convenient meeting place (so) people from several departments (can) come together,&rdquo; says Powell, who has been working with the GCcoworking concept for three years. &ldquo;We also located them in the suburbs &hellip; so that people could have an option that&rsquo;s closer to home.&rdquo;\n\n\nThe new GGcoworking includes 55 spaces at 335 River Rd.\n\n\n\nThe new GGcoworking includes 55 spaces at 335 River Rd.\n\nMeehan sees an added benefit from the hubs, saying they will &ldquo;absolutely&rdquo; ease traffic congestion in the region.\n&ldquo;One of my campaign promises was a solution to our congestion mess &hellip; We don&rsquo;t have the money to put in roads and new rapid bus routes. The only thing we can do is make it easier for people to leave their cars at home,&rdquo; Meehan says. &ldquo;The majority of the traffic out here are people driving their cars to get into the federal, provincial and city government offices.&rdquo;\n\n\nYea. Feds opening up mini work hub in its offices at 335 River Road for employees in the south end who don&rsquo;t want to commute downtown. Book a spot, plug in and work. Limited space but it&rsquo;s a start!!  Need more of this to ease congestion. #ottawa #ottnews \n&mdash; Carol Anne Meehan (@MeehanCarolAnne) May 14, 2019\n\nThe hubs will remove some federal public servants from the traffic equation, but the remaining problem is in their capacity. The Gatineau location is the largest, with 99 spots, while 335 River Rd., in Meehan&rsquo;s ward, Gloucester-South Nepean, is the smallest with 55.\n&ldquo;It&rsquo;s a start,&rdquo; Meehan said. &ldquo;We need a heck of a lot more than that out here.&rdquo;\nOf course, this remains a pilot project for now, with each location to be operational for two years.\nPowell is optimistic.\n&ldquo;We&rsquo;re hopeful &hellip; that people will want to have more,&rdquo; she says. &ldquo;I think people are going to use them because they&rsquo;re interested in working differently and having access to modern spaces.&rdquo;\n\n\nThis photo shows a Focus Pod, one of the new features of the GGcoworking pilot project.\n\n\n\nThis photo shows a Focus Pod, one of the new features of the GGcoworking pilot project.\n\nPowell says public servants will first come to the hubs because they&rsquo;re curious, but they&rsquo;ll come back because of their unique features, including adjustable sit-stand desks, Focus Pods for privacy and Touchdown Areas designed for employees to quickly check emails or charge mobile phones.\n&ldquo;These sites are fully equipped with all the technology you need, and sometimes your own home (or typical workspace) doesn&rsquo;t have (all that),&rdquo; Powell says.\nMeehan wants everyone on board for additional hubs.\n&ldquo;I want everybody to be going to their employers and saying, &lsquo;The congestion that I face everyday is getting worse &hellip; It&rsquo;s impacting my health because I&rsquo;m sitting in cars for an hour and a half every day. Is there something we can do &hellip; to establish something where we can work closer to home?&rsquo; Everybody&rsquo;s got to push for this.&rdquo;\nALSO IN THE NEWS:&nbsp;\nNew hospital information system has potential to &lsquo;save lives,&rsquo; chief of staff says\nTornadoes strike in east end of Ottawa area\nMilitary may be asked to return to help remove sandbags after floods subside\n\n\t\t\t\t\t\t\tThis embed is invalid\" \/&gt;",
+                    "fallback": "Ottawa Citizen Link: Federal government opens 2 of 5 alternative work hubs for public servants",
+                    "from_url": "https:\/\/ottawacitizen.com\/news\/local-news\/federal-government-opens-2-of-5-alternative-work-hubs-for-public-servants",
+                    "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/034e689d25278f80f8281f2c424607c3?s=114",
+                    "id": 1,
+                    "original_url": "https:\/\/ottawacitizen.com\/news\/local-news\/federal-government-opens-2-of-5-alternative-work-hubs-for-public-servants"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "957f4522-a444-4e6e-b644-6b9c7aa22e57",
+            "type": "message",
+            "text": "pretty cool. i like seeing initiatives that make mobility easier inside gov",
+            "user": "UG9Q2KANP",
+            "ts": "1559580103.004100",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "fcf3cbcb-2f15-4b4b-96f9-9f264e2e109e",
+            "type": "message",
+            "text": "<https:\/\/medium.com\/xfn-blog\/the-six-month-hypothesis-d764016fa931>",
+            "user": "UG9Q2KANP",
+            "ts": "1559580044.002900",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Medium",
+                    "title": "The Six Month Hypothesis",
+                    "title_link": "https:\/\/medium.com\/xfn-blog\/the-six-month-hypothesis-d764016fa931",
+                    "text": "My name is Keren, I\u2019m a Canadian federal public servant, and I\u2019m playing career roulette.",
+                    "fallback": "Medium: The Six Month Hypothesis",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*ZIn66dVhpgEX1rIGYIrelA.jpeg",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "2 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1559329935,
+                    "from_url": "https:\/\/medium.com\/xfn-blog\/the-six-month-hypothesis-d764016fa931",
+                    "image_width": 376,
+                    "image_height": 250,
+                    "image_bytes": 131328,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*ywtBF3ucrKqpiynHbTBG6w.jpeg",
+                    "id": 1,
+                    "original_url": "https:\/\/medium.com\/xfn-blog\/the-six-month-hypothesis-d764016fa931"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UHQ0BSB4J"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2EA3309A-65D5-4A93-8E19-E4DB08C419A4",
+            "type": "message",
+            "text": "Can we please call Brent back to set up joint sessions ? ",
+            "user": "UGBFAD9T8",
+            "ts": "1559336123.002600",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559240667.000300",
+            "parent_user_id": "UG9SGK05Q"
+        },
+        {
+            "client_msg_id": "19bc190c-09e9-4fdb-b6eb-8365081353fa",
+            "type": "message",
+            "text": "they do tons on AI. Also organized conf's on AI ethics last year- I think annual. Sloan School   picked up huge in 2018 on the management side of things re digital transformation and challenges.",
+            "user": "UG99E6Y7J",
+            "ts": "1559318712.001800",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559317942.001100",
+            "parent_user_id": "UJ9VAC14L"
+        },
+        {
+            "client_msg_id": "22858CEE-2950-4D29-8D28-68A2C310B1F0",
+            "type": "message",
+            "text": "Interesting work in AI from MIT ",
+            "user": "UJ9VAC14L",
+            "ts": "1559317990.001600",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "B3161873-978F-4FF5-827F-30184639D531",
+            "type": "message",
+            "text": "<https:\/\/quest.mit.edu>",
+            "user": "UJ9VAC14L",
+            "ts": "1559317942.001100",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559317942.001100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1559318712.001800",
+            "reply_users": [
+                "UG99E6Y7J"
+            ],
+            "replies": [
+                {
+                    "user": "UG99E6Y7J",
+                    "ts": "1559318712.001800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "622a658f-3e3f-49f6-b4dc-8554acd28b69",
+            "type": "message",
+            "text": "<https:\/\/tinyurl.com\/y4awred5>",
+            "user": "UG99E6Y7J",
+            "ts": "1559271786.000600",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "MIT Sloan Management Review",
+                    "title": "How to Lead Effective Cross-Functional Teams",
+                    "title_link": "https:\/\/tinyurl.com\/y4awred5",
+                    "text": "Three key steps help make cross-functional digital collaboration a smoother proposition.",
+                    "fallback": "MIT Sloan Management Review: How to Lead Effective Cross-Functional Teams",
+                    "image_url": "https:\/\/sloanreview.mit.edu\/content\/uploads\/2019\/04\/GEN-Dyar-Leadership-Teamwork-Collaboration-Cross-Functional-2400-300x300.jpg",
+                    "from_url": "https:\/\/tinyurl.com\/y4awred5",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 17574,
+                    "service_icon": "https:\/\/sloanreview.mit.edu\/static\/apple-touch-icon-144x144-precomposed.png",
+                    "id": 1,
+                    "original_url": "https:\/\/tinyurl.com\/y4awred5"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6ae16998-1596-42cd-b135-c30edcb7a81f",
+            "type": "message",
+            "text": "CIFAR's AI Future's final report: <https:\/\/www.cifar.ca\/cifarnews\/2019\/05\/29\/ai-futures-policy-labs-engage-policy-leaders-in-understanding-the-future-policy-implications-of-ai>",
+            "user": "UG9SGK05Q",
+            "ts": "1559240667.000300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "CIFAR",
+                    "title": "AI Futures Policy Labs engage policy leaders in understanding the future policy implications of AI",
+                    "title_link": "https:\/\/www.cifar.ca\/cifarnews\/2019\/05\/29\/ai-futures-policy-labs-engage-policy-leaders-in-understanding-the-future-policy-implications-of-ai",
+                    "text": "How do we empower policy leaders to develop thoughtful and insightful policies around AI?",
+                    "fallback": "CIFAR: AI Futures Policy Labs engage policy leaders in understanding the future policy implications of AI",
+                    "thumb_url": "https:\/\/www.cifar.ca\/images\/default-source\/list-view\/rebootingreg_listview.jpg?sfvrsn=9ec3dc24_2",
+                    "from_url": "https:\/\/www.cifar.ca\/cifarnews\/2019\/05\/29\/ai-futures-policy-labs-engage-policy-leaders-in-understanding-the-future-policy-implications-of-ai",
+                    "thumb_width": 640,
+                    "thumb_height": 340,
+                    "service_icon": "https:\/\/www.cifar.ca\/favicons\/apple-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.cifar.ca\/cifarnews\/2019\/05\/29\/ai-futures-policy-labs-engage-policy-leaders-in-understanding-the-future-policy-implications-of-ai"
+                }
+            ],
+            "thread_ts": "1559240667.000300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1559336123.002600",
+            "reply_users": [
+                "UGBFAD9T8"
+            ],
+            "replies": [
+                {
+                    "user": "UGBFAD9T8",
+                    "ts": "1559336123.002600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "779247A6-DFD6-4088-A6CF-30B0AC20643E",
+            "type": "message",
+            "text": "Cra doing the same",
+            "user": "UG9TATBB6",
+            "ts": "1559167345.007600",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1559167307.007300",
+            "parent_user_id": "UG99E6Y7J"
+        },
+        {
+            "client_msg_id": "b360c4a1-100e-4865-9000-313d446ca79a",
+            "type": "message",
+            "text": "Just a FYI...  CBSA is going all out on this Ivey Biz School Leadership dev approach  :  <https:\/\/www.ivey.uwo.ca\/leadership\/for-leaders\/leadership-blogs\/2019\/04\/character-your-most-powerful-differentiating-and-controllable-leadership-strength\/>",
+            "user": "UG99E6Y7J",
+            "ts": "1559167307.007300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Ivey Business School",
+                    "title": "Character: Your most powerful, differentiating and controllable leadership strength",
+                    "title_link": "https:\/\/www.ivey.uwo.ca\/leadership\/for-leaders\/leadership-blogs\/2019\/04\/character-your-most-powerful-differentiating-and-controllable-leadership-strength\/",
+                    "text": "Character is the most powerful, differentiating and controllable leadership strength you can possess. Powerful because it leverages your skills and hard work, differentiating because surprisingly few leaders make it their focus, and controllable because you are the creator of your character.",
+                    "fallback": "Ivey Business School: Character: Your most powerful, differentiating and controllable leadership strength",
+                    "image_url": "https:\/\/www.ivey.uwo.ca\/cmsmedia\/3785679\/bfurlong_mar2019.jpg",
+                    "from_url": "https:\/\/www.ivey.uwo.ca\/leadership\/for-leaders\/leadership-blogs\/2019\/04\/character-your-most-powerful-differentiating-and-controllable-leadership-strength\/",
+                    "image_width": 396,
+                    "image_height": 250,
+                    "image_bytes": 241435,
+                    "service_icon": "https:\/\/www.ivey.uwo.ca\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.ivey.uwo.ca\/leadership\/for-leaders\/leadership-blogs\/2019\/04\/character-your-most-powerful-differentiating-and-controllable-leadership-strength\/"
+                }
+            ],
+            "thread_ts": "1559167307.007300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1559167345.007600",
+            "reply_users": [
+                "UG9TATBB6"
+            ],
+            "replies": [
+                {
+                    "user": "UG9TATBB6",
+                    "ts": "1559167345.007600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "bot_id": "BGB0JMLNB",
+            "type": "message",
+            "text": "",
+            "user": "UGA7MQ95G",
+            "ts": "1559149745.005700",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "fallback": "giphy: https:\/\/giphy.com\/gifs\/captain-facepalm-picard-XsUtdIeJ0MWMo",
+                    "image_url": "https:\/\/media3.giphy.com\/media\/XsUtdIeJ0MWMo\/giphy-downsized.gif?cid=6104955e5ceebcab4f4c4c74735f9a82&rid=giphy-downsized.gif",
+                    "image_width": 250,
+                    "image_height": 187,
+                    "image_bytes": 1180701,
+                    "is_animated": true,
+                    "title": "facepalm",
+                    "footer": "Posted using \/giphy",
+                    "id": 1,
+                    "title_link": "https:\/\/giphy.com\/gifs\/captain-facepalm-picard-XsUtdIeJ0MWMo"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "733f2726-10c9-4ce0-80cb-bc208afd2b29",
+            "type": "message",
+            "text": "<https:\/\/www.cbc.ca\/news\/politics\/facebook-job-ads-microtargeting-1.5153463>",
+            "user": "UG9Q2KANP",
+            "ts": "1559149354.005400",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "CBC",
+                    "title": "Federal departments may have broken law by microtargeting job ads | CBC News",
+                    "title_link": "https:\/\/www.cbc.ca\/news\/politics\/facebook-job-ads-microtargeting-1.5153463",
+                    "text": "Several federal government departments\u00a0\u2014 including the Canada Border Services Agency, the Correctional Service of Canada and the RCMP \u2014 have restricted who can see their job ads on Facebook by age, which\u00a0could violate Canadian human rights law.",
+                    "fallback": "CBC: Federal departments may have broken law by microtargeting job ads | CBC News",
+                    "image_url": "https:\/\/i.cbc.ca\/1.5086003.1554472652!\/fileImage\/httpImage\/image.jpg_gen\/derivatives\/16x9_620\/facebook-newsfeed.jpg",
+                    "from_url": "https:\/\/www.cbc.ca\/news\/politics\/facebook-job-ads-microtargeting-1.5153463",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "image_bytes": 11659,
+                    "service_icon": "https:\/\/www.cbc.ca\/a\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.cbc.ca\/news\/politics\/facebook-job-ads-microtargeting-1.5153463"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d84f1277-028b-4469-9381-80a36ed36336",
+            "type": "message",
+            "text": "<@UG9TY931Q> Yup. We called it. Knew that would become an issue",
+            "user": "UG9Q2KANP",
+            "ts": "1559146784.005200",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "1C2C563D-C459-4C06-BB61-2E270171C253",
+            "type": "message",
+            "text": "Glad devops covered both azure and aws for exactly this reason\n<https:\/\/www.journaldemontreal.com\/2019\/05\/27\/amazon-accuse-de-faire-du--lobbyisme-cache--par-les-syndiques-de-letat>",
+            "user": "UG9TY931Q",
+            "ts": "1559146089.004700",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Le Journal de Montr\u00e9al",
+                    "title": "Amazon accus\u00e9 de faire du \u00ablobbyisme cach\u00e9\u00bb par les syndiqu\u00e9s de l\u2019\u00c9tat",
+                    "title_link": "https:\/\/www.journaldemontreal.com\/2019\/05\/27\/amazon-accuse-de-faire-du--lobbyisme-cache--par-les-syndiques-de-letat",
+                    "text": "Amazon fait du \u00ablobbyisme cach\u00e9\u00bb en ciblant les fonctionnaires de l\u2019\u00c9tat qu\u00e9b\u00e9cois avec sa nouvelle formation gratuite d\u00e9nonce le SFPQ.",
+                    "fallback": "Le Journal de Montr\u00e9al: Amazon accus\u00e9 de faire du \u00ablobbyisme cach\u00e9\u00bb par les syndiqu\u00e9s de l\u2019\u00c9tat",
+                    "image_url": "https:\/\/storage.journaldemontreal.com\/v1\/dynamic_resize\/sws_path\/jdx-prod-images\/ec103067-553e-4b60-aa4f-2a6ed1f85f8e_JDX-2x1_WEB.jpg?quality=80&size=1200x&version=1",
+                    "from_url": "https:\/\/www.journaldemontreal.com\/2019\/05\/27\/amazon-accuse-de-faire-du--lobbyisme-cache--par-les-syndiques-de-letat",
+                    "image_width": 607,
+                    "image_height": 250,
+                    "image_bytes": 65764,
+                    "service_icon": "https:\/\/storage.journaldemontreal.com\/v1\/jdx-prod-images\/static\/photo\/e23871c9-47aa-4a7f-8a02-05c25388c38a_jdm_blanc144.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.journaldemontreal.com\/2019\/05\/27\/amazon-accuse-de-faire-du--lobbyisme-cache--par-les-syndiques-de-letat"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "dfecb806-1c21-4dd6-9417-78e3d4b76e9f",
+            "type": "message",
+            "text": "can't imagine that going sideways",
+            "user": "UG9Q2KANP",
+            "ts": "1559129211.003100",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "67c60fe8-7ae0-4a1b-954b-b178737c89eb",
+            "type": "message",
+            "text": "<https:\/\/www.vice.com\/en_us\/article\/kzdp5v\/police-in-canada-are-tracking-peoples-negative-behavior-in-a-risk-database>",
+            "user": "UG9Q2KANP",
+            "ts": "1559129022.002500",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Vice",
+                    "title": "Police in Canada Are Tracking People\u2019s \u2018Negative\u2019 Behavior In a \u2018Risk\u2019 Database",
+                    "title_link": "https:\/\/www.vice.com\/en_us\/article\/kzdp5v\/police-in-canada-are-tracking-peoples-negative-behavior-in-a-risk-database",
+                    "text": "The database includes detailed, but \u201cde-identified,\u201d information about people\u2019s lives culled from conversations between police, social services, health workers, and more.",
+                    "fallback": "Vice: Police in Canada Are Tracking People\u2019s \u2018Negative\u2019 Behavior In a \u2018Risk\u2019 Database",
+                    "image_url": "https:\/\/video-images.vice.com\/articles\/5c76c78ef3691800072f3249\/lede\/1551290658202-19570423.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*",
+                    "image_width": 445,
+                    "image_height": 250,
+                    "ts": 1551290742,
+                    "from_url": "https:\/\/www.vice.com\/en_us\/article\/kzdp5v\/police-in-canada-are-tracking-peoples-negative-behavior-in-a-risk-database",
+                    "image_bytes": 147059,
+                    "service_icon": "https:\/\/vice-web-statics-cdn.vice.com\/favicons\/vice\/apple-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.vice.com\/en_us\/article\/kzdp5v\/police-in-canada-are-tracking-peoples-negative-behavior-in-a-risk-database"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3c4a3ef6-d0a0-4eaa-bc4e-05388438fc6f",
+            "type": "message",
+            "text": "<https:\/\/www.mckinsey.com\/business-functions\/organization\/our-insights\/the-journey-to-an-agile-organization>",
+            "user": "UG99E6Y7J",
+            "ts": "1558792677.001500",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "McKinsey &amp; Company",
+                    "title": "The journey to an agile organization",
+                    "title_link": "https:\/\/www.mckinsey.com\/business-functions\/organization\/our-insights\/the-journey-to-an-agile-organization",
+                    "text": "You know what an agile organization is, and why it&amp;rsquo;s important. But figuring out how to pull off an agile transformation is another question.",
+                    "fallback": "McKinsey &amp; Company: The journey to an agile organization",
+                    "image_url": "https:\/\/www.mckinsey.com\/~\/media\/McKinsey\/Business%20Functions\/Organization\/Our%20Insights\/The%20journey%20to%20an%20agile%20organization\/The-journey-to-an-agile-organization-1536x1536-final.ashx",
+                    "from_url": "https:\/\/www.mckinsey.com\/business-functions\/organization\/our-insights\/the-journey-to-an-agile-organization",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 450954,
+                    "service_icon": "https:\/\/www.mckinsey.com\/redesign\/resources\/images\/mck-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.mckinsey.com\/business-functions\/organization\/our-insights\/the-journey-to-an-agile-organization"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "80128754-c9af-4f60-b780-60edc4c615bf",
+            "type": "message",
+            "text": "<https:\/\/medium.com\/@charmedquark\/australias-design-capability-gap-how-it-hurts-organisations-how-to-avoid-hiring-the-wrong-34699aa83087>",
+            "user": "UG99E6Y7J",
+            "ts": "1558791848.001200",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Medium",
+                    "title": "Australia\u2019s Design capability gap, how it hurts organisations &amp; how to avoid hiring the wrong\u2026",
+                    "title_link": "https:\/\/medium.com\/@charmedquark\/australias-design-capability-gap-how-it-hurts-organisations-how-to-avoid-hiring-the-wrong-34699aa83087",
+                    "text": "The majority of people in design roles don\u2019t have the capabilities required to help organisations deliver on customer experience and\u2026",
+                    "fallback": "Medium: Australia\u2019s Design capability gap, how it hurts organisations &amp; how to avoid hiring the wrong\u2026",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*JvqMYlBTNj-eOr4pwHWv2w.jpeg",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "15 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1539171999,
+                    "from_url": "https:\/\/medium.com\/@charmedquark\/australias-design-capability-gap-how-it-hurts-organisations-how-to-avoid-hiring-the-wrong-34699aa83087",
+                    "image_width": 364,
+                    "image_height": 250,
+                    "image_bytes": 332240,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                    "id": 1,
+                    "original_url": "https:\/\/medium.com\/@charmedquark\/australias-design-capability-gap-how-it-hurts-organisations-how-to-avoid-hiring-the-wrong-34699aa83087"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "965ad2f4-77e7-41df-9ea1-17593cb45eb7",
+            "type": "message",
+            "text": "This is so inspiring and such a big passion of mine. The quantified self movement has such an enormous potential <https:\/\/onezero.medium.com\/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70>",
+            "user": "UGA7MQ95G",
+            "ts": "1558723525.000800",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "OneZero",
+                    "title": "One Inventor\u2019s Race to Manage His Parkinson\u2019s Disease With an App",
+                    "title_link": "https:\/\/onezero.medium.com\/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70",
+                    "text": "Ray Finucane was dubbed an engineering \u2018wizard.\u2019 Managing his own brain is his toughest challenge yet.",
+                    "fallback": "OneZero: One Inventor\u2019s Race to Manage His Parkinson\u2019s Disease With an App",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/focal\/1200\/632\/49\/50\/1*f_SZZ5oEAb6-8qCD_MRG_g.jpeg",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "14 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1558522861,
+                    "from_url": "https:\/\/onezero.medium.com\/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70",
+                    "image_width": 475,
+                    "image_height": 250,
+                    "image_bytes": 157637,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*88Z0O0wD4KOrk6Y5EceZog.png",
+                    "id": 1,
+                    "original_url": "https:\/\/onezero.medium.com\/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e06f5899-bb55-4d3e-9c03-134bca3adda7",
+            "type": "message",
+            "text": "Sascha talked about this during his Behavioural Insights presentation at the innovation fair yesterday as well",
+            "user": "UJJDX5NBD",
+            "ts": "1558615717.006800",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "0a2bcb74-d7b6-44b4-a0bf-dac6ab64c3ab",
+            "type": "message",
+            "text": "Cory just tweeted about premortems. Just so happen that we will use this approach in the change leadership module next week in practicum.  <https:\/\/hbr.org\/2007\/09\/performing-a-project-premortem>",
+            "user": "UG99E6Y7J",
+            "ts": "1558557780.006200",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Harvard Business Review",
+                    "title": "Performing a Project Premortem",
+                    "title_link": "https:\/\/hbr.org\/2007\/09\/performing-a-project-premortem",
+                    "text": "Projects fail at a spectacular rate. One reason is that too many people are reluctant to speak up about their reservations during the all-important planning phase. By making it safe for dissenters who are knowledgeable about the undertaking and worried about its weaknesses to speak up, you can improve a project\u2019s chances of success. Research [\u2026]",
+                    "fallback": "Harvard Business Review: Performing a Project Premortem",
+                    "image_url": "https:\/\/hbr.org\/resources\/images\/hbr_opengraph_940x490.png",
+                    "ts": 1188619200,
+                    "from_url": "https:\/\/hbr.org\/2007\/09\/performing-a-project-premortem",
+                    "image_width": 480,
+                    "image_height": 250,
+                    "image_bytes": 9416,
+                    "service_icon": "https:\/\/hbr.org\/resources\/images\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/hbr.org\/2007\/09\/performing-a-project-premortem"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b7ee57df-854c-4863-a4a3-5d62e1478873",
+            "type": "message",
+            "text": "Google's remote teams playbook found in a resource that Todd shared: <http:\/\/services.google.com\/fh\/files\/blogs\/distributedworkplaybooks.pdf>",
+            "user": "UG9TY931Q",
+            "ts": "1558442300.004700",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "0564e1c2-ebda-498a-b483-215aa6a9644a",
+            "type": "message",
+            "text": "In the first article, I appreciated the nuances and honestly I need to re-read it. What surprised me was how the author looked at digital engagement, and the different types of questions for redesign.",
+            "user": "UHHSW0L7P",
+            "ts": "1558421255.004100",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1558420763.003700",
+            "parent_user_id": "UHHSW0L7P"
+        },
+        {
+            "client_msg_id": "95bd804e-2e6a-4480-be2a-b1e7961858f8",
+            "type": "message",
+            "text": "From the second article \"What a Digital Organization Looks Like\" I found this interesting...\n\n\"From what we\u2019ve learned so far, we think there are five main aspects of a digital organisation, and you ideally need all of them to be in place.\n\n1) Environment\u200a\u2014\u200aunderstand what changes are taking place\n2) Users\u200a\u2014\u200aput them at the heart of your organisation\n3) Workforce\u200a\u2014\u200aempowered, equipped and organised to work digitally\n4) Leadership\u200a\u2014\u200abold, open, curious\n5) Tech, data and processes\u200a\u2014\u200aflexible, to serve your organisation\u2019s goals\"\n\nSpecifically, I thought that users resonated with the team meeting on May 9th.",
+            "user": "UHHSW0L7P",
+            "ts": "1558421025.003900",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1558420763.003700",
+            "parent_user_id": "UHHSW0L7P"
+        },
+        {
+            "client_msg_id": "f928d027-d89f-4bf8-bf2b-76a832c2d80f",
+            "type": "message",
+            "text": "Hi Folks a person from connected communities shared two articles with me that you might find interesting. <https:\/\/medium.com\/@cassierobinson\/what-were-learning-about-how-the-sector-understands-digital-2ef0a07c2a68>\n\n<https:\/\/medium.com\/doteveryone\/what-a-digital-organisation-looks-like-82426a210ab8>",
+            "user": "UHHSW0L7P",
+            "ts": "1558420763.003700",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Medium",
+                    "title": "What we\u2019re learning about how the sector understands \u201cdigital\u201d",
+                    "title_link": "https:\/\/medium.com\/@cassierobinson\/what-were-learning-about-how-the-sector-understands-digital-2ef0a07c2a68",
+                    "text": "When we launched the Digital Fund in late 2018 we didn\u2019t anticipate 1,200 applications in four weeks, but we knew we\u2019d find out more about\u2026",
+                    "fallback": "Medium: What we\u2019re learning about how the sector understands \u201cdigital\u201d",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/0*LWmN7QcBR5MDpmcl",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "9 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1556608559,
+                    "from_url": "https:\/\/medium.com\/@cassierobinson\/what-were-learning-about-how-the-sector-understands-digital-2ef0a07c2a68",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "image_bytes": 330070,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                    "id": 1,
+                    "original_url": "https:\/\/medium.com\/@cassierobinson\/what-were-learning-about-how-the-sector-understands-digital-2ef0a07c2a68"
+                },
+                {
+                    "service_name": "Medium",
+                    "title": "What a digital organisation looks like",
+                    "title_link": "https:\/\/medium.com\/doteveryone\/what-a-digital-organisation-looks-like-82426a210ab8",
+                    "text": "Digital isn\u2019t a list of things to do. It\u2019s about how you think, how you behave, what you value, and what drives your decisions.",
+                    "fallback": "Medium: What a digital organisation looks like",
+                    "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/0*LIQNhi3YRUvLHVyT.",
+                    "fields": [
+                        {
+                            "title": "Reading time",
+                            "value": "10 min read",
+                            "short": true
+                        }
+                    ],
+                    "ts": 1496761677,
+                    "from_url": "https:\/\/medium.com\/doteveryone\/what-a-digital-organisation-looks-like-82426a210ab8",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "image_bytes": 148553,
+                    "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*ApMO1s80CjbHrPNgMIGNpw.jpeg",
+                    "id": 2,
+                    "original_url": "https:\/\/medium.com\/doteveryone\/what-a-digital-organisation-looks-like-82426a210ab8"
+                }
+            ],
+            "thread_ts": "1558420763.003700",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1558421255.004100",
+            "reply_users": [
+                "UHHSW0L7P"
+            ],
+            "replies": [
+                {
+                    "user": "UHHSW0L7P",
+                    "ts": "1558421025.003900"
+                },
+                {
+                    "user": "UHHSW0L7P",
+                    "ts": "1558421255.004100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "6b118457-bc44-4b33-abc3-10cd43a4e8de",
+            "type": "message",
+            "text": "Good read with some solid nuggets for the DA",
+            "user": "UGBADAPRC",
+            "ts": "1558392593.002900",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "96961b29-fd48-44df-976c-722c0fa8c2ff",
+            "type": "message",
+            "text": "Clever Josh Bershin back as an independent growing traction after selling his company to Deloitte. <http:\/\/tiny.cc\/mzvz6y>",
+            "user": "UG99E6Y7J",
+            "ts": "1558369155.002300",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "JOSH BERSIN",
+                    "title": "The Power of Collaborative Learning: More Important Than Ever \u2013 JOSH BERSIN",
+                    "title_link": "http:\/\/tiny.cc\/mzvz6y",
+                    "text": "Cohort-based collaborative learning has finally come of age. Exciting new platforms now make this possible, transforming the learning market.",
+                    "fallback": "JOSH BERSIN: The Power of Collaborative Learning: More Important Than Ever \u2013 JOSH BERSIN",
+                    "thumb_url": "https:\/\/joshbersin.com\/wp-content\/uploads\/2019\/05\/shutterstock_593494403-1.jpg",
+                    "ts": 1558291655,
+                    "from_url": "http:\/\/tiny.cc\/mzvz6y",
+                    "thumb_width": 1000,
+                    "thumb_height": 667,
+                    "service_icon": "https:\/\/joshbersin.com\/wp-content\/uploads\/2016\/05\/cropped-Josh-Bersin-Color-April-2010-300x300.jpg",
+                    "id": 1,
+                    "original_url": "http:\/\/tiny.cc\/mzvz6y"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "afa52159-f7df-4017-9a37-f723a16540a9",
+            "type": "message",
+            "text": "Learning technologies magazine <https:\/\/view.pagetiger.com\/LearningTechnologiesEMagazine\/issue-13>",
+            "user": "UJ9VAC14L",
+            "ts": "1558032171.003400",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "title": "Learning Technologies UK e-Magazine - Issue 13",
+                    "title_link": "https:\/\/view.pagetiger.com\/LearningTechnologiesEMagazine\/issue-13",
+                    "fallback": "Learning Technologies UK e-Magazine - Issue 13",
+                    "image_url": "https:\/\/view.pagetiger.com\/LearningTechnologiesEMagazine\/issue-13\/Thumbs\/Page_250d70d3d5800c8c42b917cdf44f96bf_0001-800-0-0.jpg",
+                    "from_url": "https:\/\/view.pagetiger.com\/LearningTechnologiesEMagazine\/issue-13",
+                    "image_width": 218,
+                    "image_height": 250,
+                    "image_bytes": 115566,
+                    "service_icon": "https:\/\/view.pagetiger.com\/favicon.ico",
+                    "service_name": "view.pagetiger.com",
+                    "id": 1,
+                    "original_url": "https:\/\/view.pagetiger.com\/LearningTechnologiesEMagazine\/issue-13"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "140952db-9b63-41fb-aec2-fb1dafe9a470",
+            "type": "message",
+            "text": "<https:\/\/hbr.org\/2018\/03\/what-happens-when-data-scientists-and-designers-work-together>",
+            "user": "UG9TY931Q",
+            "ts": "1557933113.002100",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Harvard Business Review",
+                    "title": "What Happens When Data Scientists and Designers Work Together",
+                    "title_link": "https:\/\/hbr.org\/2018\/03\/what-happens-when-data-scientists-and-designers-work-together",
+                    "text": "How a sleep app became something users really wanted.",
+                    "fallback": "Harvard Business Review: What Happens When Data Scientists and Designers Work Together",
+                    "image_url": "https:\/\/hbr.org\/resources\/images\/article_assets\/2018\/02\/mar18-05-525242525-crosailes.jpg",
+                    "ts": 1520265649,
+                    "from_url": "https:\/\/hbr.org\/2018\/03\/what-happens-when-data-scientists-and-designers-work-together",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "image_bytes": 81313,
+                    "service_icon": "https:\/\/hbr.org\/resources\/images\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/hbr.org\/2018\/03\/what-happens-when-data-scientists-and-designers-work-together"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UGBFAD9T8",
+                        "UG9T1KMB4"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6766B217-4F70-4519-AE18-FFD69D16DD9C",
+            "type": "message",
+            "text": "Good ol latex",
+            "user": "UGA7MQ95G",
+            "ts": "1557854789.001900",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "3314a6e3-6bfa-4519-ae43-7d9816b48f77",
+            "type": "message",
+            "text": "\"A Layered Model for AI Governance\"",
+            "user": "UJ9VAC14L",
+            "ts": "1557854312.001600",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "6165133d-e6ea-4e34-9195-e753e203fe28",
+            "type": "message",
+            "text": "<https:\/\/dash.harvard.edu\/bitstream\/handle\/1\/34390353\/w6gov-18-LATEX.pdf?sequence=1&amp;isAllowed=y>",
+            "user": "UJ9VAC14L",
+            "ts": "1557854267.001300",
+            "team": "TGB9RAJ5C"
+        },
+        {
+            "client_msg_id": "8fe40fed-38ea-46d7-9a41-5001cfb803f1",
+            "type": "message",
+            "text": "Like briefing a Minister",
+            "user": "UG99E6Y7J",
+            "ts": "1557773305.000800",
+            "team": "TGB9RAJ5C",
+            "thread_ts": "1557773233.000600",
+            "parent_user_id": "UG9TY931Q"
+        },
+        {
+            "client_msg_id": "D0450BFA-43F2-4DDE-BAFA-C93B7718D814",
+            "type": "message",
+            "text": "<http:\/\/www.learningsolutionsmag.com\/articles\/vr-training-ideal-for-dangerous-or-impossible-experiences>",
+            "user": "UG9TY931Q",
+            "ts": "1557773233.000600",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Learning Solutions Magazine",
+                    "title": "VR Training Ideal for Dangerous or Impossible Experiences",
+                    "title_link": "http:\/\/www.learningsolutionsmag.com\/articles\/vr-training-ideal-for-dangerous-or-impossible-experiences",
+                    "text": "Jeremy Bailenson, the founding director of Stanford University\u2019s Virtual Human Interaction Lab and co-founder of STRIVR, studies the impact of virtual reality experiences on participants, with a focus on how virtual experiences change participants\u2019 perceptions of self and others.",
+                    "fallback": "Learning Solutions Magazine: VR Training Ideal for Dangerous or Impossible Experiences",
+                    "image_url": "http:\/\/www.learningsolutionsmag.com\/sites\/default\/files\/article\/id_7671_780.jpg",
+                    "image_width": 488,
+                    "image_height": 250,
+                    "from_url": "http:\/\/www.learningsolutionsmag.com\/articles\/vr-training-ideal-for-dangerous-or-impossible-experiences",
+                    "image_bytes": 85159,
+                    "id": 1,
+                    "original_url": "http:\/\/www.learningsolutionsmag.com\/articles\/vr-training-ideal-for-dangerous-or-impossible-experiences"
+                }
+            ],
+            "thread_ts": "1557773233.000600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1557773305.000800",
+            "reply_users": [
+                "UG99E6Y7J"
+            ],
+            "replies": [
+                {
+                    "user": "UG99E6Y7J",
+                    "ts": "1557773305.000800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "d2591378-02fa-40b4-bfde-b9f38655f2ef",
+            "type": "message",
+            "text": "<https:\/\/www.chieflearningofficer.com\/2019\/05\/01\/make-corporate-learning-more-relevant-with-ai\/>",
+            "user": "UJ9VAC14L",
+            "ts": "1557405011.008500",
+            "team": "TGB9RAJ5C",
+            "attachments": [
+                {
+                    "service_name": "Chief Learning Officer - CLO Media",
+                    "title": "Make Corporate Learning More Relevant With AI",
+                    "title_link": "https:\/\/www.chieflearningofficer.com\/2019\/05\/01\/make-corporate-learning-more-relevant-with-ai\/",
+                    "text": "The goal is not to have AI replace humans or do things for them. Instead, it can serve as a tool that will make people smarter at doing things themselves.",
+                    "fallback": "Chief Learning Officer - CLO Media: Make Corporate Learning More Relevant With AI",
+                    "image_url": "https:\/\/www.chieflearningofficer.com\/wp-content\/uploads\/sites\/3\/2019\/05\/AdobeStock_187210770-1024x632.jpg",
+                    "image_width": 405,
+                    "image_height": 250,
+                    "ts": 1556738425,
+                    "from_url": "https:\/\/www.chieflearningofficer.com\/2019\/05\/01\/make-corporate-learning-more-relevant-with-ai\/",
+                    "image_bytes": 77736,
+                    "service_icon": "https:\/\/www.chieflearningofficer.com\/clomedia\/wp-content\/uploads\/sites\/3\/fbrfg\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.chieflearningofficer.com\/2019\/05\/01\/make-corporate-learning-more-relevant-with-ai\/"
+                }
+            ]
+        }
+    ],
+    "has_more": true
+}
